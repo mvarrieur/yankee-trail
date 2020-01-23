@@ -1,11 +1,15 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import Content, { HTMLContent } from "../components/Content";
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
+export const AttractionsPageTemplate = ({
+  title,
+  content,
+  contentComponent
+}) => {
+  const PageContent = contentComponent || Content;
 
   return (
     <section className="section section--gradient">
@@ -22,37 +26,37 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-AboutPageTemplate.propTypes = {
+AttractionsPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
+  contentComponent: PropTypes.func
+};
 
-const AboutPage = ({ data }) => {
-  const { markdownRemark: post } = data
+const AttractionsPage = ({ data }) => {
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <AttractionsPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
       />
     </Layout>
-  )
-}
+  );
+};
 
-AboutPage.propTypes = {
-  data: PropTypes.object.isRequired,
-}
+AttractionsPage.propTypes = {
+  data: PropTypes.object.isRequired
+};
 
-export default AboutPage
+export default AttractionsPage;
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const attractionsPageQuery = graphql`
+  query AttractionsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
@@ -60,4 +64,4 @@ export const aboutPageQuery = graphql`
       }
     }
   }
-`
+`;

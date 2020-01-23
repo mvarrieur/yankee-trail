@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Yankee trail motel in Holderness, New Hampshire
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Yankee trail motel in Holderness, New Hampshire
 mainpitch:
-  title: Why Kaldi
+  title: Yankee Trail Motel
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Located across from the famous Squam Lake or 'On Golden Pond' as it was known in the famous 1981 movie with Henry Fonda and Katharine Hepburn in Holderness, New Hampshire.
+
+    Our family owned and operated motel is also close to Little Squam and Lakes Winnipesaukee, we pride ourselves on making your trip to the White Mountains an affordable and unforgettable experience.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Located across from the famous Squam Lake or 'On Golden Pond' as it was known in the famous 1981 movie with Henry Fonda and Katharine Hepburn in Holderness, New Hampshire.
+
+  Our family owned and operated motel is also close to Little Squam and Lakes Winnipesaukee, we pride ourselves on making your trip to the White Mountains an affordable and unforgettable experience.
 intro:
   blurbs:
     - image: /img/coffee.png
