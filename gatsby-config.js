@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Yankee Trail Motel - Holderness, NH",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution."
+      "Located across from the famous Squam Lake or 'On Golden Pond' as it was known in the famous 1981 movie with Henry Fonda and Katharine Hepburn in Holderness, New Hampshire. Our family owned and operated motel is also close to Little Squam and Lakes Winnipesaukee, we pride ourselves on making your trip to the White Mountains an affordable and unforgettable experience. Our ten clean and comfortable motel rooms feature great family accommodations with many amenities."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
