@@ -1,0 +1,18 @@
+@import "./variables";
+
+.HeaderContainer {
+  display: flex;
+  height: 150px;
+  line-height: 1;
+  justify-content: space-around;
+  align-items: left;
+  flex-direction: column;
+}
+
+.Header {
+  box-shadow: $main-color 0.5rem 0px 0px, $main-color -0.5rem 0px 0px;
+  background-color: $main-color;
+  color: white;
+  line-height: 1;
+  padding: 0.25em;
+}
