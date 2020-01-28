@@ -25,34 +25,8 @@ export const IndexPageTemplate = ({
       photoArtist="Marc Nozell"
       photoLicenseLink="https://creativecommons.org/licenses/by/2.0/"
       photoLicenseName="CC BY 2.0"
+      modifications="Blurred from original"
     />
-    {/* <section
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`
-      }}
-    >
-      <div className={styles.HeaderContainer}>
-        <h1
-          className={`has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen ${styles.Header}`}
-        >
-          {title}
-        </h1>
-      </div>
-    </section>
-    <section>
-      <div className={`container ${styles.AttributionContainer}`}>
-        <a className={styles.Attribution} href="">
-          ""
-        </a>{" "}
-        by  /{" "}
-        <a href=""></a>
-      </div>
-    </section> */}
     <section className="section section--gradient">
       <div className="container">
         <div className="section">

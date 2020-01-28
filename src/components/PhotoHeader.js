@@ -9,7 +9,8 @@ export const PhotoHeader = ({
   photoTitle,
   photoArtist,
   photoLicenseName,
-  photoLicenseLink
+  photoLicenseLink,
+  modifications
 }) => (
   <Fragment>
     <section
@@ -32,6 +33,7 @@ export const PhotoHeader = ({
       <div className={`container ${styles.AttributionContainer}`}>
         <a href={photoLink}>"{photoTitle}"</a> by {photoArtist} /{" "}
         <a href={photoLicenseLink}>{photoLicenseName}</a>
+        {modifications && ` / ${modifications}`}
       </div>
     </section>
   </Fragment>
@@ -44,7 +46,8 @@ PhotoHeader.propTypes = {
   photoTitle: PropTypes.string.isRequired,
   photoArtist: PropTypes.string.isRequired,
   photoLicenseName: PropTypes.string.isRequired,
-  photoLicenseLink: PropTypes.string.isRequired
+  photoLicenseLink: PropTypes.string.isRequired,
+  Modifications: PropTypes.string
 };
 
 export default PhotoHeader;
