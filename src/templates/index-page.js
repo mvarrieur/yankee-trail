@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout";
+import PhotoHeader from "../components/PhotoHeader";
 import Features from "../components/Features";
 import styles from "../styles/index-page.module.scss";
 
@@ -14,11 +15,22 @@ export const IndexPageTemplate = ({
   intro
 }) => (
   <div>
-    <div
+    <PhotoHeader
+      title={title}
+      backgroundImageUrl={
+        !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+      }
+      photoLink="https://flic.kr/p/oa6TEN"
+      photoTitle="Squam Lake Vista"
+      photoArtist="Marc Nozell"
+      photoLicenseLink="https://creativecommons.org/licenses/by/2.0/"
+      photoLicenseName="CC BY 2.0"
+    />
+    {/* <section
       className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`
@@ -31,16 +43,16 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
       </div>
-    </div>
+    </section>
     <section>
       <div className={`container ${styles.AttributionContainer}`}>
-        <a className={styles.Attribution} href="https://flic.kr/p/oa6TEN">
-          "Squam Lake Vista"
+        <a className={styles.Attribution} href="">
+          ""
         </a>{" "}
-        by Marc Nozell /{" "}
-        <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
+        by  /{" "}
+        <a href=""></a>
       </div>
-    </section>
+    </section> */}
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
