@@ -11,10 +11,10 @@ description: >-
   Our ten clean and comfortable motel rooms feature great family accommodations with many amenities.
 intro:
   blurbs:
-    - image: /img/240x190placeholder.png
+    - image: /img/sign.jpg
       text: >
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae assumenda consequatur voluptas iure ratione hic ullam esse debitis. Facilis eaque adipisci esse distinctio, maxime necessitatibus officia minus odio ratione odit iste ab illum nam voluptatum vero laborum quaerat quasi, commodi iusto soluta. Ratione dolor inventore in obcaecati facilis fugit excepturi cupiditate saepe delectus illo optio adipisci.
-    - image: /img/240x190placeholder.png
+    - image: /img/building.jpg
       text: >
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae assumenda consequatur voluptas iure ratione hic ullam esse debitis. Facilis eaque adipisci esse distinctio, maxime necessitatibus officia minus odio ratione odit iste ab illum nam voluptatum vero laborum quaerat quasi, commodi iusto soluta. Ratione dolor inventore in obcaecati facilis fugit excepturi cupiditate saepe delectus illo optio adipisci.
     - image: /img/240x190placeholder.png

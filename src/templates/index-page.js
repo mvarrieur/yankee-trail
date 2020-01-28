@@ -32,6 +32,15 @@ export const IndexPageTemplate = ({
         </h1>
       </div>
     </div>
+    <section>
+      <div className={`container ${styles.AttributionContainer}`}>
+        <a className={styles.Attribution} href="https://flic.kr/p/oa6TEN">
+          "Squam Lake Vista"
+        </a>{" "}
+        by Marc Nozell /{" "}
+        <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
+      </div>
+    </section>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -47,21 +56,19 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                {/* <div className="columns">
+                <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
+                    <Link className={styles.Button} to="#">
+                      {/* TODO: Update link to online booking site */}
+                      Make a Reservation
                     </Link>
                   </div>
-                </div> */}
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
-    <section>
-      Squam Lake Vista image attribution: Marc Nozell https://flic.kr/p/oa6TEN
     </section>
   </div>
 );
