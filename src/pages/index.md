@@ -1,7 +1,6 @@
 ---
 templateKey: index-page
 title: Yankee Trail Motel in Holderness, New Hampshire
-image: /img/squam-vista.jpg
 hero:
   image: /img/squam-vista.jpg
   title: Squam Lake Vista
