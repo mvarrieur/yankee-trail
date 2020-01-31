@@ -8,7 +8,7 @@ import Features from "../components/Features";
 import styles from "../styles/index-page.module.scss";
 
 export const IndexPageTemplate = ({
-  image,
+  hero,
   title,
   heading,
   description,
@@ -18,14 +18,16 @@ export const IndexPageTemplate = ({
     <PhotoHeader
       title={title}
       backgroundImageUrl={
-        !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+        !!hero.image.childImageSharp
+          ? hero.image.childImageSharp.fluid.src
+          : hero.image
       }
-      photoLink="https://flic.kr/p/oa6TEN"
-      photoTitle="Squam Lake Vista"
-      photoArtist="Marc Nozell"
-      photoLicenseLink="https://creativecommons.org/licenses/by/2.0/"
-      photoLicenseName="CC BY 2.0"
-      modifications="Blurred from original"
+      photoLink={hero.link}
+      photoTitle={hero.title}
+      photoArtist={hero.artist}
+      photoLicenseLink={hero.license.link}
+      photoLicenseName={hero.license.name}
+      modifications={hero.modifications}
     />
     <section className="section section--gradient">
       <div className="container">
@@ -60,7 +62,7 @@ export const IndexPageTemplate = ({
 );
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  hero: PropTypes.object,
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
@@ -75,7 +77,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
+        hero={frontmatter.hero}
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
@@ -100,11 +102,21 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
+        hero {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
             }
+          }
+          title
+          link
+          artist
+          modifications
+          license {
+            name
+            link
           }
         }
         heading

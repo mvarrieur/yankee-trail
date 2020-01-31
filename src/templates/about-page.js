@@ -9,7 +9,7 @@ import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import PhotoHeader from "../components/PhotoHeader";
 
 export const AboutPageTemplate = ({
-  image,
+  hero,
   title,
   heading,
   description,
@@ -23,14 +23,16 @@ export const AboutPageTemplate = ({
     <PhotoHeader
       title={title}
       backgroundImageUrl={
-        !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+        !!hero.image.childImageSharp
+          ? hero.image.childImageSharp.fluid.src
+          : hero.image
       }
-      photoLink="https://flic.kr/p/jRqjb6"
-      photoTitle="TKTK"
-      photoArtist="Anand Khatri"
-      photoLicenseLink="https://creativecommons.org/licenses/by/2.0/"
-      photoLicenseName="CC BY 2.0"
-      modifications="Blurred &amp; cropped from original"
+      photoLink={hero.link}
+      photoTitle={hero.title}
+      photoArtist={hero.artist}
+      photoLicenseLink={hero.license.link}
+      photoLicenseName={hero.license.name}
+      modifications={hero.modifications}
     />
 
     <section className="section section--gradient">
@@ -99,7 +101,7 @@ export const AboutPageTemplate = ({
 );
 
 AboutPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  hero: PropTypes.object,
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
@@ -128,7 +130,7 @@ const AboutPage = ({ data }) => {
   return (
     <Layout>
       <AboutPageTemplate
-        image={frontmatter.image}
+        hero={frontmatter.hero}
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
@@ -157,11 +159,21 @@ export const aboutPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
+        hero {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
             }
+          }
+          title
+          link
+          artist
+          modifications
+          license {
+            name
+            link
           }
         }
         heading

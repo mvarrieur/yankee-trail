@@ -1,8 +1,16 @@
 ---
 templateKey: 'about-page'
 path: /about-us
-title: Our Coffee
-image: /img/tktk.jpg
+title: About Yankee Trail
+hero:
+  image: /img/tktk.jpg
+  title: TKTK
+  link: https://flic.kr/p/jRqjb6
+  artist: Anand Khatri
+  modifications: Blurred & cropped from original
+  license:
+    name: CC BY 2.0
+    link: https://creativecommons.org/licenses/by/2.0/
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
