@@ -80,5 +80,14 @@ pricing:
         - Air conditioning
       plan: 8 Double Bed Rooms
       price: XXX
+    - description: >-
+        Oversized rooms including a king bed, a twin bed, complementary WiFi,
+        and a large swimming pool
+      items:
+        - 1 King bed
+        - 1 single bed
+        - Air conditioning
+      plan: 2 King Bed Rooms - COMING SOON
+      price: XXX
 ---
 
