@@ -18,7 +18,7 @@ const TemplateWrapper = ({ children }) => {
         <meta name="robots" content="noindex,nofollow" />
 
         <script type="application/ld+json">
-          {{
+          {`{
             "@context": "http://schema.org",
             "@type": "Motel",
             address: {
@@ -42,7 +42,7 @@ const TemplateWrapper = ({ children }) => {
               "00:00-23:59"
             ],
             paymentAccepted: "Visa, Master Card, Discover, Amex"
-          }}
+          }`}
         </script>
 
         <link
