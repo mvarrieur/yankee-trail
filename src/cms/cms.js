@@ -46,7 +46,7 @@ const config = {
               widget: "hidden",
               default: "index-page"
             },
-            { label: "Title", name: "title", widget: "'string'" },
+            { label: "Title", name: "title", widget: "string" },
             {
               label: "Hero Image",
               name: "hero",
@@ -79,8 +79,6 @@ const config = {
               name: "intro",
               widget: "object",
               fields: [
-                { label: "Heading", name: "heading", widget: "string" },
-                { label: "Description", name: "description", widget: "text" },
                 {
                   label: "Blurbs",
                   name: "blurbs",
@@ -88,42 +86,6 @@ const config = {
                   fields: [
                     { label: "Image", name: "image", widget: "image" },
                     { label: "Text", name: "text", widget: "text" }
-                  ]
-                }
-              ]
-            },
-            {
-              label: "Main",
-              name: "main",
-              widget: "object",
-              fields: [
-                { label: "Heading", name: "heading", widget: "string" },
-                { label: "Description", name: "description", widget: "text" },
-                {
-                  label: "Image1",
-                  name: "image1",
-                  widget: "object",
-                  fields: [
-                    { label: "Image", name: "image", widget: "image" },
-                    { label: "Alt", name: "alt", widget: "string" }
-                  ]
-                },
-                {
-                  label: "Image2",
-                  name: "image2",
-                  widget: "object",
-                  fields: [
-                    { label: "Image", name: "image", widget: "image" },
-                    { label: "Alt", name: "alt", widget: "string" }
-                  ]
-                },
-                {
-                  label: "Image3",
-                  name: "image3",
-                  widget: "object",
-                  fields: [
-                    { label: "Image", name: "image", widget: "image" },
-                    { label: "Alt", name: "alt", widget: "string" }
                   ]
                 }
               ]
