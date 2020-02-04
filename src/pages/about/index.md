@@ -1,51 +1,38 @@
 ---
-templateKey: 'about-page'
-path: /about-us
+templateKey: about-page
 title: About Yankee Trail
 hero:
-  image: /img/tktk.jpg
-  title: TKTK
-  link: https://flic.kr/p/jRqjb6
   artist: Anand Khatri
-  modifications: Blurred & cropped from original
+  image: /img/tktk.jpg
   license:
+    link: 'https://creativecommons.org/licenses/by/2.0/'
     name: CC BY 2.0
-    link: https://creativecommons.org/licenses/by/2.0/
-heading: Great coffee with a conscience
+  link: 'https://flic.kr/p/jRqjb6'
+  modifications: Blurred & cropped from original
+  title: TKTK
+heading: 'Yankee Trail Motel is located a short walk to Sqaum Lake in Holderness, NH'
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Featuring 10 oversized rooms with all the comforts of home. Oversized outdoor
+  swimming pool, fire pit, and grill area. Many local attractions! Restaurant
+  opens Spring 2020!
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/240x190placeholder.png
+      text: >-
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
+        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
+    - image: /img/240x190placeholder.png
+      text: >-
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
+        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
+    - image: /img/240x190placeholder.png
+      text: >-
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
+        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
+    - image: /img/240x190placeholder.png
+      text: >-
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
+        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -53,12 +40,12 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Escape to the Lakes
+  description: >-
+    The perfect getaway. Yankee Trail is in the heart of the Lakes and Mountain
+    region of NH and offers its guests a true break. Yankee Trail is close to
+    all attractions including The Natural Science Center, golf, fishing and much
+    more. Free WiFi also. Come and enjoy all the Yankee Trail has to offer.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -69,41 +56,29 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Tim Decareau on Facebook
+    quote: Nice cozy place. Wonderful customer service.
+  - author: Ijklm5662 on TripAdvisor
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      We stayed here while visiting our family this summer. Very convenient
+      location in Holderness. I liked the fact that it only has a total of 10
+      rooms, so they take extra special care of you.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Room Rates
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    See why so many travelers make Yankee Trail Motel their motel of choice when
+    visiting Holderness. Providing an ideal mix of value, comfort and
+    convenience, it offers an array of amenities designed for travelers like
+    you. You’ll enjoy relaxing rooms that offer air conditioning, and you can
+    stay connected during your stay as Yankee Trail Motel offers guests free
+    internet access.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 'Oversized rooms including complementary WiFi, and a large swimming pool'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - 2 Double beds
+        - Air conditioning
+      plan: 8 Double Bed Rooms
+      price: XXX
 ---
+
