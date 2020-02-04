@@ -19,29 +19,29 @@ const TemplateWrapper = ({ children }) => {
 
         <script type="application/ld+json">
           {`{
-            "@context": "http://schema.org",
-            "@type": "Motel",
-            address: {
-              "@type": "PostalAddress",
-              addressLocality: "Holderness",
-              addressRegion: "New Hampshire",
-              postalCode: "03245",
-              streetAddress: "430 Rte 3"
-            },
-            name: "Yankee Trail Motel",
-            url: "https://www.yankeetrail.com/",
-            email: "yankeetrailmotel@gmail.com",
-            telephone: "16033754331",
-            openingHours: [
-              "00:00-23:59",
-              "00:00-23:59",
-              "00:00-23:59",
-              "00:00-23:59",
-              "00:00-23:59",
-              "00:00-23:59",
-              "00:00-23:59"
-            ],
-            paymentAccepted: "Visa, Master Card, Discover, Amex"
+              "@context": "http://schema.org",
+              "@type": "Motel",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Holderness",
+                "addressRegion": "New Hampshire",
+                "postalCode": "03245",
+                "streetAddress": "430 Rte 3"
+              },
+              "name": "Yankee Trail Motel",
+              "url": "https://www.yankeetrail.com/",
+              "email": "yankeetrailmotel@gmail.com",
+              "telephone": "16033754331",
+              "openingHours": [
+                "00:00-23:59",
+                "00:00-23:59",
+                "00:00-23:59",
+                "00:00-23:59",
+                "00:00-23:59",
+                "00:00-23:59",
+                "00:00-23:59"
+              ],
+              "paymentAccepted": "Visa, Master Card, Discover, Amex"
           }`}
         </script>
 
