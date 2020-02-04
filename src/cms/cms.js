@@ -46,7 +46,7 @@ const config = {
               widget: "hidden",
               default: "index-page"
             },
-            { label: "Title", name: "title", widget: "'string'" },
+            { label: "Title", name: "title", widget: "string" },
             {
               label: "Hero Image",
               name: "hero",
