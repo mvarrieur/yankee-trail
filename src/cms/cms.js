@@ -33,11 +33,11 @@ const config = {
   collections: [
     {
       name: "pages",
-      label: "pages",
+      label: "Pages",
       files: [
         {
           file: "src/pages/index.md",
-          label: "Landing Page",
+          label: "Home Page",
           name: "index",
           fields: [
             {
