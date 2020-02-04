@@ -14,7 +14,7 @@ const AboutPagePreview = ({ entry, getAsset }) => {
 
   return (
     <AboutPageTemplate
-      hero={entry.getIn(["data", "hero"])}
+      hero={entry.getIn(["data", "hero"]).toJS()}
       title={entry.getIn(["data", "title"])}
       heading={entry.getIn(["data", "heading"])}
       description={entry.getIn(["data", "description"])}
