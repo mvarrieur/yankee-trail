@@ -5,7 +5,7 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 import PhotoHeader from "../components/PhotoHeader";
 import Features from "../components/Features";
-import styles from "../styles/index-page.module.scss";
+import ReservationButton from "../components/ReservationButton";
 
 export const IndexPageTemplate = ({
   hero,
@@ -46,10 +46,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className={styles.Button} to="#">
-                      {/* TODO: Update link to online booking site */}
-                      Make a Reservation
-                    </Link>
+                    <ReservationButton />
                   </div>
                 </div>
               </div>

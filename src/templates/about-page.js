@@ -7,6 +7,7 @@ import Testimonials from "../components/Testimonials";
 import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import PhotoHeader from "../components/PhotoHeader";
+import ReservationButton from "../components/ReservationButton";
 
 export const AboutPageTemplate = ({
   hero,
@@ -92,6 +93,7 @@ export const AboutPageTemplate = ({
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
+              <ReservationButton />
             </div>
           </div>
         </div>

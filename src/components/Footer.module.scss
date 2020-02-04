@@ -1,0 +1,9 @@
+.MenuList {
+  .TelLink {
+    padding: 0;
+
+    &:hover, &:active, &:focus {
+      color: darken(#fff, 30%) !important;
+    }
+  }
+}

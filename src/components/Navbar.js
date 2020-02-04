@@ -68,9 +68,14 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
               {/* TODO: Update link */}
-              <Link className="navbar-item" to="#">
+              <a href="#" className="navbar-item">
                 Reservations
-              </Link>
+              </a>
+            </div>
+            <div className="navbar-end has-text-centered">
+              <a className="navbar-item" href="tel:+16033754331">
+                (603) 375-4331
+              </a>
             </div>
           </div>
         </div>

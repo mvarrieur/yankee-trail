@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 
 import "./Footer.scss";
+import styles from "./Footer.module.scss";
 import Logo from "../img/yankee-logo.inline.svg";
 import facebook from "../img/social/facebook.svg";
 
@@ -40,16 +41,23 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       {/* TODO: Update link */}
-                      <Link className="navbar-item" to="#">
+                      <a href="#" className="navbar-item">
                         Reservations
-                      </Link>
+                      </a>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4">
                 <section>
-                  <ul className="menu-list"></ul>
+                  <ul className={`menu-list ${styles.MenuList}`}>
+                    <li>430 Rte 3 Holderness, New Hampshire</li>
+                    <li>
+                      <a className={styles.TelLink} href="tel:+16033754331">
+                        (603) 375-4331
+                      </a>
+                    </li>
+                  </ul>
                 </section>
               </div>
               <div className="column is-4 social">
