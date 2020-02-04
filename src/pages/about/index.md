@@ -69,10 +69,10 @@ pricing:
   description: >-
     See why so many travelers make Yankee Trail Motel their motel of choice when
     visiting Holderness. Providing an ideal mix of value, comfort and
-    convenience, it offers an array of amenities designed for travelers like
-    you. You’ll enjoy relaxing rooms that offer air conditioning, and you can
-    stay connected during your stay as Yankee Trail Motel offers guests free
-    internet access.
+    convenience, we offer an array of amenities designed for travelers like you.
+    You’ll enjoy relaxing rooms that offer air conditioning, and you can stay
+    connected during your stay as Yankee Trail Motel offers guests free internet
+    access.
   plans:
     - description: 'Oversized rooms including complementary WiFi, and a large swimming pool'
       items:
@@ -85,7 +85,7 @@ pricing:
         and a large swimming pool
       items:
         - 1 King bed
-        - 1 single bed
+        - 1 Single bed
         - Air conditioning
       plan: 2 King Bed Rooms - COMING SOON
       price: XXX
