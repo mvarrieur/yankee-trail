@@ -14,9 +14,30 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
               <div className="columns">
-                <div className="column is-6"></div>
+                <div className="column is-6">
+                  <h1>Contact</h1>
+                  <p>
+                    <strong>Yankee Trail Motel</strong>
+                  </p>
+                  <p>
+                    430 Rte 3<br />
+                    Holderness, New Hampshire
+                    <br />
+                    <a href="https://www.google.com/maps/dir//430+US-3,+Holderness,+NH+03245">
+                      Get directions
+                    </a>
+                  </p>
+                  <p>
+                    <a href="mailto:yankeetrailmotel@gmail.com">
+                      yankeetrailmotel@gmail.com
+                    </a>
+                  </p>
+                  <p>
+                    <a href="tel:+16033754331">(603) 375-4331</a>
+                  </p>
+                  <ReservationButton />
+                </div>
                 <div className="column is-6">
                   <iframe
                     width="100%"
@@ -26,7 +47,6 @@ export default class Contact extends React.Component {
                   ></iframe>
                 </div>
               </div>
-              <ReservationButton />
             </div>
           </div>
         </section>
