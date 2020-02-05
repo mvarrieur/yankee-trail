@@ -45,7 +45,7 @@ main:
     The perfect getaway. Yankee Trail is in the heart of the Lakes and Mountain
     region of NH and offers its guests a true break. Yankee Trail is close to
     all attractions including The Natural Science Center, golf, fishing and much
-    more. Free WiFi also. Come and enjoy all the Yankee Trail has to offer.
+    more including free WiFi. Come and enjoy all the Yankee Trail has to offer.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
