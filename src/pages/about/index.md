@@ -78,8 +78,11 @@ pricing:
       items:
         - 2 Double beds
         - Air conditioning
+        - Cable TV
+        - On Demand
+        - Pet Friendly
       plan: 8 Double Bed Rooms
-      price: XXX
+      price: XX
     - description: >-
         Oversized rooms including a king bed, a twin bed, complementary WiFi,
         and a large swimming pool
@@ -87,7 +90,10 @@ pricing:
         - 1 King bed
         - 1 Single bed
         - Air conditioning
-      plan: 2 King Bed Rooms - COMING SOON
-      price: XXX
+        - Cable TV
+        - On Demand
+        - Pet Friendly
+      plan: 2 King Bed Rooms - Coming Soon!
+      price: XX
 ---
 
