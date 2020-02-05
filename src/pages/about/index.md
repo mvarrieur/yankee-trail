@@ -53,8 +53,8 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Photo of motel room
+    image: /img/fullroom.jpg
 testimonials:
   - author: Tim Decareau on Facebook
     quote: Nice cozy place. Wonderful customer service.
