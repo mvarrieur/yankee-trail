@@ -88,7 +88,7 @@ pricing:
         and a large swimming pool
       items:
         - 1 King bed
-        - 1 Single bed
+        - 1 Sleep sofa
         - Air conditioning
         - Cable TV
         - On Demand
