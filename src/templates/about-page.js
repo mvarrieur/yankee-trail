@@ -28,12 +28,6 @@ export const AboutPageTemplate = ({
           ? hero.image.childImageSharp.fluid.src
           : hero.image
       }
-      photoLink={hero.link}
-      photoTitle={hero.title}
-      photoArtist={hero.artist}
-      photoLicenseLink={hero.license.link}
-      photoLicenseName={hero.license.name}
-      modifications={hero.modifications}
     />
 
     <section className="section section--gradient">
@@ -130,7 +124,7 @@ const AboutPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
+    <Layout hero={frontmatter.hero}>
       <AboutPageTemplate
         hero={frontmatter.hero}
         title={frontmatter.title}

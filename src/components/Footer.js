@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { Link } from "gatsby";
 
 import "./Footer.scss";
@@ -75,9 +76,32 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+
+        {this.props.hero.title && (
+          <div
+            className={`content has-text-white-ter ${styles.AttributionContainer}`}
+          >
+            Header photo:{" "}
+            <a href={this.props.hero.link}>"{this.props.hero.title}"</a> by{" "}
+            {this.props.hero.artist}
+            {this.props.hero.license.link &&
+              this.props.hero.license.name && [
+                <span> / </span>,
+                <a href={this.props.hero.license.link}>
+                  {this.props.hero.license.name}
+                </a>
+              ]}
+            {this.props.hero.modifications &&
+              ` / ${this.props.hero.modifications}`}
+          </div>
+        )}
       </footer>
     );
   }
+};
+
+Footer.propTypes = {
+  hero: PropTypes.object.isRequired
 };
 
 export default Footer;
