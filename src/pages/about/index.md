@@ -17,7 +17,7 @@ description: >-
   opens Spring 2020!
 intro:
   blurbs:
-    - image: /img/240x190placeholder.png
+    - image: /img/chemex.jpg
       text: >-
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
         assumenda consequatur voluptas iure ratione hic ullam esse debitis.
