@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
@@ -6,7 +7,7 @@ import "../styles/all.scss";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
 
-const TemplateWrapper = ({ children }) => {
+const Layout = ({ children, hero }) => {
   const { title, description } = useSiteMetadata();
   return (
     <div>
@@ -150,9 +151,14 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div>{children}</div>
-      <Footer />
+      <Footer hero={hero ? hero : {}} />
     </div>
   );
 };
 
-export default TemplateWrapper;
+Layout.propTypes = {
+  children: PropTypes.node.isRequired,
+  hero: PropTypes.object
+};
+
+export default Layout;

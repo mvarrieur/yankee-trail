@@ -2,16 +2,7 @@ import React, { Fragment } from "react";
 import PropTypes from "prop-types";
 import styles from "./PhotoHeader.module.scss";
 
-export const PhotoHeader = ({
-  title,
-  backgroundImageUrl,
-  photoLink,
-  photoTitle,
-  photoArtist,
-  photoLicenseName,
-  photoLicenseLink,
-  modifications
-}) => (
+export const PhotoHeader = ({ title, backgroundImageUrl }) => (
   <Fragment>
     <section
       className="full-width-image margin-top-0"
@@ -29,29 +20,12 @@ export const PhotoHeader = ({
         </h1>
       </div>
     </section>
-    <section>
-      <div className={`container ${styles.AttributionContainer}`}>
-        <a href={photoLink}>"{photoTitle}"</a> by {photoArtist}
-        {photoLicenseLink &&
-          photoLicenseName && [
-            <span> / </span>,
-            <a href={photoLicenseLink}>{photoLicenseName}</a>
-          ]}
-        {modifications && ` / ${modifications}`}
-      </div>
-    </section>
   </Fragment>
 );
 
 PhotoHeader.propTypes = {
   title: PropTypes.string.isRequired,
-  backgroundImageUrl: PropTypes.string.isRequired,
-  photoLink: PropTypes.string.isRequired,
-  photoTitle: PropTypes.string.isRequired,
-  photoArtist: PropTypes.string.isRequired,
-  photoLicenseName: PropTypes.string,
-  photoLicenseLink: PropTypes.string,
-  Modifications: PropTypes.string
+  backgroundImageUrl: PropTypes.string.isRequired
 };
 
 export default PhotoHeader;

@@ -28,19 +28,13 @@ export const AboutPageTemplate = ({
           ? hero.image.childImageSharp.fluid.src
           : hero.image
       }
-      photoLink={hero.link}
-      photoTitle={hero.title}
-      photoArtist={hero.artist}
-      photoLicenseLink={hero.license.link}
-      photoLicenseName={hero.license.name}
-      modifications={hero.modifications}
     />
 
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-7 is-offset-1">
+            <div className="column is-10 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
             </div>
@@ -49,7 +43,7 @@ export const AboutPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
               <div className="columns">
-                <div className="column is-7">
+                <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
@@ -130,7 +124,7 @@ const AboutPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
+    <Layout hero={frontmatter.hero}>
       <AboutPageTemplate
         hero={frontmatter.hero}
         title={frontmatter.title}
