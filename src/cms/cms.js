@@ -108,6 +108,30 @@ const config = {
           ]
         },
         {
+          file: "src/pages/gallery/index.md",
+          label: "Gallery Page",
+          name: "gallery",
+          fields: [
+            {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "gallery-page"
+            },
+            { label: "Heading", name: "heading", widget: "string" },
+            { label: "Description", name: "description", widget: "string" },
+            {
+              label: "Images",
+              name: "images",
+              widget: "list",
+              fields: [
+                { label: "Image", name: "image", widget: "image" },
+                { label: "Text", name: "text", widget: "text" }
+              ]
+            }
+          ]
+        },
+        {
           file: "src/pages/about/index.md",
           label: "About Page",
           name: "about",
