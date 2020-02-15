@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
-const FeatureGrid = ({ gridItems }) => (
+const FeatureGrid = ({ gridItems, maxWidth }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-6">
@@ -10,7 +10,7 @@ const FeatureGrid = ({ gridItems }) => (
           <div className="has-text-centered">
             <div
               style={{
-                width: "240px",
+                width: maxWidth ? maxWidth : "240px",
                 display: "inline-block"
               }}
             >
@@ -25,6 +25,7 @@ const FeatureGrid = ({ gridItems }) => (
 );
 
 FeatureGrid.propTypes = {
+  maxWidth: PropTypes.string,
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),

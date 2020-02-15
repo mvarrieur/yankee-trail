@@ -41,6 +41,11 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
+                      <Link className="navbar-item" to="/gallery">
+                        Gallery
+                      </Link>
+                    </li>
+                    <li>
                       {/* TODO: Update link */}
                       <a href="#" className="navbar-item">
                         Reservations
