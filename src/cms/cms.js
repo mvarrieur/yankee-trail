@@ -151,8 +151,6 @@ const config = {
               name: "intro",
               widget: "object",
               fields: [
-                { label: "Heading", name: "heading", widget: "string" },
-                { label: "Description", name: "description", widget: "text" },
                 {
                   label: "Blurbs",
                   name: "blurbs",
