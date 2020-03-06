@@ -26,7 +26,8 @@ intro:
         Our Breakfast Restaurant is currently under construction, however, we
         can not wait for the reveal anticipated May 1, 2020!  Our simple
         breakfast menu with allow you a delicious hot meal to enjoy before
-        beginning each day's adventure!  Selections will include pancake pops
+        beginning each day's adventure!  Selections will include your basic
+        pancakes, french toast, bacon and egg options, as well as pancake pops
         for those young at heart and incredible breakfast sandwiches on grilled
         french bread!  Mmm....
     - image: /img/building.jpg
