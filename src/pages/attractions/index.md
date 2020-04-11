@@ -1,17 +1,35 @@
 ---
-templateKey: 'attractions-page'
-path: /attractions
+templateKey: attractions-page
 title: Nearby Attractions
 ---
-
 ### Summer
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis ad soluta aut, tempore sint excepturi iusto est culpa impedit dicta!
+
+https://www.lakesregion.org/
+
+https://www.visitwhitemountains.com/
+
+https://www.squamlakes.org/
+
+https://www.littlechurchtheater.com/
+
+https://countryclubofnh.com/
 
 ### Fall
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis ad soluta aut, tempore sint excepturi iusto est culpa impedit dicta!
+
+https://www.nhnature.org/
+
+http://www.nhaudubon.org/
 
 ### Winter
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis ad soluta aut, tempore sint excepturi iusto est culpa impedit dicta!
+
+https://www.lakesregion.org/play/snowmobile-the-lakes-region-of-nh/
+
+https://www.cannonmt.com/
+
+http://loonmtn.com/
+
+https://www.gunstock.com/
 
 ### Spring
+
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis ad soluta aut, tempore sint excepturi iusto est culpa impedit dicta!
