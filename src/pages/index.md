@@ -12,11 +12,12 @@ hero:
   title: Squam Lake Vista
 heading: Our Motel
 description: >-
-  Located near the famous Squam Lake, or 'On Golden Pond' as it was known in the
-  famous 1981 movie with Henry Fonda and Katharine Hepburn, in Holderness, New
-  Hampshire. Our family-owned and operated motel is also close to Lakes
-  Winnipesaukee and Little Squam. We pride ourselves on making your trip to the
-  Lakes and Mountain Region an affordable and unforgettable experience. 
+  Yankee Trail is located near the famous Squam Lake, or 'On Golden Pond' as it
+  was known in the famous 1981 movie with Henry Fonda and Katharine Hepburn, in
+  Holderness, New Hampshire. Our family-owned and operated motel is also close
+  to Lakes Winnipesaukee and Little Squam. We pride ourselves in making your
+  trip to the Lakes and Mountain Region an affordable and unforgettable
+  experience. 
 intro:
   blurbs:
     - image: /img/sign.jpg
