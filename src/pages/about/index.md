@@ -10,35 +10,15 @@ hero:
   link: 'https://flic.kr/p/jRqjb6'
   modifications: Blurred & cropped from original
   title: TKTK
-heading: 'Yankee Trail Motel is located a short walk to Sqaum Lake in Holderness, NH'
+heading: 'Yankee Trail Motel is located a short walk to Squam Lake in Holderness, NH'
 description: >-
-  Featuring 10 oversized rooms with all the comforts of home. Oversized outdoor
-  swimming pool, fire pit, and grill area. Many local attractions! Restaurant
-  opens Spring 2020!
+  Featuring 10 over-sized rooms with all the comforts of home. Oversized outdoor
+  swimming pool, fire pit, and grill area. Many local attractions! Breakfast
+  restaurant opens as soon as COVID-19 restrictions end.
 intro:
   blurbs:
-    - image: /img/chemex.jpg
-      text: >-
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
-        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
-    - image: /img/240x190placeholder.png
-      text: >-
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
-        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
-    - image: /img/240x190placeholder.png
-      text: >-
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
-        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
-    - image: /img/240x190placeholder.png
-      text: >-
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id fuga beatae
-        assumenda consequatur voluptas iure ratione hic ullam esse debitis.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/IMG_1211.jpg
+      text: Our rooms are spacious and provide all the comforts of home.
 main:
   heading: Escape to the Lakes
   description: >-
@@ -63,7 +43,7 @@ testimonials:
       We stayed here while visiting our family this summer. Very convenient
       location in Holderness. I liked the fact that it only has a total of 10
       rooms, so they take extra special care of you.
-full_image: /img/products-full-width.jpg
+full_image: /img/og-image.jpg
 pricing:
   heading: Room Rates
   description: >-
@@ -74,7 +54,9 @@ pricing:
     connected during your stay as Yankee Trail Motel offers guests free internet
     access.
   plans:
-    - description: 'Oversized rooms including complementary WiFi, and a large swimming pool'
+    - description: >-
+        Over-sized room including complementary WiFi, small fridge,
+        mini-microwave, and coffee machine.
       items:
         - 2 Double beds
         - Air conditioning
@@ -82,7 +64,7 @@ pricing:
         - On Demand
         - Pet Friendly
       plan: 8 Double Bed Rooms
-      price: XX
+      price: 80/night Nov - Apr
     - description: >-
         Oversized rooms including a king bed, a twin bed, complementary WiFi,
         and a large swimming pool
