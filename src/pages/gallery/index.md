@@ -29,5 +29,21 @@ images:
     text: >-
       Look closely!  The Old Man on The Mountain embedded within the rocks of
       our sign.
+  - image: /img/IMG_0470.JPG
+    text: >-
+      What was is no longer.  A look at the former style of rooms.  Each room
+      has been beautifully redecorated from walls to bed and window coverings.
+  - image: /img/IMG_0633.jpg
+    text: >-
+      Our grounds are also in the process of being updated. Here marks the spot
+      for the future location of outdoor movie nights for our guests.
+  - image: /img/IMG_0484.JPG
+    text: >-
+      Join us poolside!  Our renovations include a dedicated bathroom for our
+      pool and outdoor activity area.  We also installed surround sound.  
+  - image: /img/IMG_0482.JPG
+    text: Beautiful grounds.
+  - image: /img/IMG_0469.JPG
+    text: Immaculately kept.
 ---
 
