@@ -26,9 +26,9 @@ intro:
         hopefully open soon, once the COVID-19 event is over.  We are busy
         planning our breakfast menu and anticipate providing our guests a
         delicious hot meal to enjoy before beginning each day's adventure! 
-        Selections will include your basic pancakes, french toast, bacon and egg
-        options, as well as pancake pops for those young at heart and incredible
-        breakfast sandwiches on grilled french bread!  Mmm....
+        Selections will include your basic omelettes, pancakes, french toast,
+        bacon and egg options, as well as pancake pops for those young at heart
+        and incredible breakfast sandwiches on grilled french bread!  Mmm....
     - image: /img/fullroom.jpg
       text: >-
         Our ten clean, over-sized motel rooms feature great family
