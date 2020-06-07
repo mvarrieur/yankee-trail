@@ -46,8 +46,11 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      {/* TODO: Update link */}
-                      <a href="#" className="navbar-item">
+                      <a
+                        href="https://via.eviivo.com/YankeeTrailMotel03245"
+                        target="_blank"
+                        className="navbar-item"
+                      >
                         Reservations
                       </a>
                     </li>
@@ -94,7 +97,7 @@ const Footer = class extends React.Component {
                 <span> / </span>,
                 <a href={this.props.hero.license.link}>
                   {this.props.hero.license.name}
-                </a>
+                </a>,
               ]}
             {this.props.hero.modifications &&
               ` / ${this.props.hero.modifications}`}
@@ -106,7 +109,7 @@ const Footer = class extends React.Component {
 };
 
 Footer.propTypes = {
-  hero: PropTypes.object.isRequired
+  hero: PropTypes.object.isRequired,
 };
 
 export default Footer;

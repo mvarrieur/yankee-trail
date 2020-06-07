@@ -7,7 +7,7 @@ const Navbar = class extends React.Component {
     super(props);
     this.state = {
       active: false,
-      navBarActiveClass: ""
+      navBarActiveClass: "",
     };
   }
 
@@ -15,17 +15,17 @@ const Navbar = class extends React.Component {
     // toggle the active boolean in the state
     this.setState(
       {
-        active: !this.state.active
+        active: !this.state.active,
       },
       // after state has been updated,
       () => {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: "is-active"
+              navBarActiveClass: "is-active",
             })
           : this.setState({
-              navBarActiveClass: ""
+              navBarActiveClass: "",
             });
       }
     );
@@ -70,8 +70,11 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/gallery">
                 Gallery
               </Link>
-              {/* TODO: Update link */}
-              <a href="#" className="navbar-item">
+              <a
+                href="https://via.eviivo.com/YankeeTrailMotel03245"
+                target="_blank"
+                className="navbar-item"
+              >
                 Reservations
               </a>
             </div>
