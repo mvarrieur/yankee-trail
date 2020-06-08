@@ -31,4 +31,14 @@ intro:
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities.
+    - image: /img/products-full-width.jpg
+      text: Our completely remodeled Breakfast Restaurant will be opening
+        soon!  Expertly managed and operated by Lise and Rick Miller of Salem,
+        NH.  Pending final remodeling details and inspections, our experienced
+        and pleasant server, Susan Varrieur, will be standing by to ensure your
+        every need is met.  Be sure to visit hungry!  An all American breakfast
+        will be offered, including pancake pops on our children's menu, and
+        Rick's famous breakfast sandwiches served on grilled italian bread
+        loaves.  The infamouse blueberry french toast and daily specials are
+        sure to amaze!  We can't wait to serve our community and guests!
 ---
