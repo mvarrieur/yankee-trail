@@ -15,8 +15,6 @@ const Layout = ({ children, hero }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-        {/* TODO: Remove this when live */}
-        <meta name="robots" content="noindex,nofollow" />
 
         <script type="application/ld+json">
           {`{
@@ -158,7 +156,7 @@ const Layout = ({ children, hero }) => {
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
-  hero: PropTypes.object
+  hero: PropTypes.object,
 };
 
 export default Layout;
