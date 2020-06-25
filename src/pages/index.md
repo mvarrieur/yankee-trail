@@ -30,32 +30,25 @@ intro:
         sandwiches on grilled french bread!  Weekend specials also offered! 
          Mmm....
 
-        The restaurant will be open every Thurs - Sun from 7:00 a.m. - noon.
+        Our restaurant grand opening is Friday, Jun 26th, from 7:00 a.m. - noon.  Beginning Jun 26th, our restaurant will be open every Thur - Sun from 7:00 a.m. - noon.
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
-        with many amenities.
-    - image: /img/products-full-width.jpg
-      text: Our completely remodeled Breakfast Restaurant will be opening
-        soon!  Expertly managed and operated by Lise and Rick Miller of Salem,
-        NH.  Pending final remodeling details and inspections, our experienced
-        and pleasant server, Susan Varrieur, will be standing by to ensure your
-        every need is met.  Be sure to visit hungry!  An all American breakfast
-        will be offered, including pancake pops on our children's menu, and
-        Rick's famous breakfast sandwiches served on grilled italian bread
-        loaves.  The infamouse blueberry french toast and daily specials are
-        sure to amaze!  We can't wait to serve our community and guests!
+        with many amenities, including blow dryer, microwave, mini-fridge, and
+        personal Kuerig coffee machine.
+    - image: /img/susan-varrieur.jpg
+      text: Our completely remodeled Breakfast Restaurant opens Jun 26th!  Our
+        experienced and pleasant server, Susan Varrieur, will be standing by to
+        ensure your every need is met.  Be sure to visit hungry!  An all
+        American breakfast will be offered, including pancake pops on our
+        children's menu, and Rick's famous breakfast sandwiches served on
+        grilled italian bread loaves.  Bill's infamouse blueberry french toast
+        will be offered among numerous daily specials, all of which are sure to
+        amaze!  We can't wait to serve our community and guests!
     - image: /img/rick-lise-miller-2-.jpg
-      text: >-
-        In February 2020, we welcomed Rick and Lise Miller to our team.  Rick
-        and Lise have graciously pulled themselves from the depths of retirement
-        to work their magic in our kitchen.  Lise is a former restaurant owner
-        and brings with her behind-the-scenes restaurant experience, as much as
-        she brings experience from behind the griddle.  You will not be
-        disappointed!
-
-
-        Our restraurant grand opening is Friday, Jun 26th, from 7:00 a.m. - noon.  Beginning Jun 26th, our restaurant will be open every Thur - Sun from 7:00 a.m. - noon.
-
-
-        We look forward to serving you!
+      text: In February 2020, we welcomed Rick and Lise Miller from Salem, NH, to our
+        team.  Rick and Lise have graciously pulled themselves from the depths
+        of retirement to work their magic in our kitchen.  Lise is a former
+        restaurant owner and brings with her behind-the-scenes restaurant
+        experience, as much as she brings experience from behind the
+        griddle.  You will not be disappointed!
 ---
