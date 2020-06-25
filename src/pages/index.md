@@ -41,4 +41,18 @@ intro:
         Rick's famous breakfast sandwiches served on grilled italian bread
         loaves.  The infamouse blueberry french toast and daily specials are
         sure to amaze!  We can't wait to serve our community and guests!
+    - image: /img/rick-lise-miller-2-.jpg
+      text: >-
+        In February 2020, we welcomed Rick and Lise Miller to our team.  Rick
+        and Lise have graciously pulled themselves from the depths of retirement
+        to work their magic in our kitchen.  Lise is a former restaurant owner
+        and brings with her behind-the-scenes restaurant experience, as much as
+        she brings experience from behind the griddle.  You will not be
+        disappointed!
+
+
+        Our restraurant grand opening is Friday, Jun 26th, from 7:00 a.m. - noon.  Beginning Jun 26th, our restaurant will be open every Thur - Sun from 7:00 a.m. - noon.
+
+
+        We look forward to serving you!
 ---
