@@ -19,15 +19,16 @@ description: "Yankee Trail is located near the famous Squam Lake, or 'On Golden
   unforgettable experience. "
 intro:
   blurbs:
-    - image: /img/sign.jpg
+    - image: /img/img_1639.jpg
       text: >
-        Our Breakfast Restaurant is currently under renovation and will
-        hopefully open soon.  We are busy planning our breakfast menu and
-        anticipate providing our guests a delicious hot meal to enjoy before
-        beginning each day's adventure!  Selections will include your basic
+        Our Breakfast Restaurant is completely remodeled and opening Friday, Jun
+        25th!  Our menu is planned and we look forward to providing our guests
+        and the local community with a delicious hot meal to enjoy before
+        beginning each day's adventure!  Selections include your basic
         omelettes, pancakes, french toast, bacon and egg options, as well as
         pancake pops for those young at heart and incredible breakfast
-        sandwiches on grilled french bread!  Mmm....
+        sandwiches on grilled french bread!  Weekend specials also offered! 
+         Mmm....
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities.
