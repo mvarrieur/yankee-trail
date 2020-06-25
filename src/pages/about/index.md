@@ -26,11 +26,13 @@ main:
     and much more including free WiFi. Come and enjoy all the Yankee Trail has
     to offer.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Our 45,000 gallon pool is full and awaits the enjoyment of our motel
+      guests.  The pool boasts an 11' deep end.
+    image: /img/IMG_0484.JPG
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Remodeling with a new color scheme - Red, White and Blue; as we make The
+      Yanke Trail great again!
+    image: /img/img_1649.jpg
   image3:
     alt: Photo of motel room
     image: /img/fullroom.jpg
