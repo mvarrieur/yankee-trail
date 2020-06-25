@@ -22,13 +22,15 @@ intro:
     - image: /img/img_1639.jpg
       text: >
         Our Breakfast Restaurant is completely remodeled and opening Friday, Jun
-        25th!  Our menu is planned and we look forward to providing our guests
+        26th!  Our menu is planned and we look forward to providing our guests
         and the local community with a delicious hot meal to enjoy before
         beginning each day's adventure!  Selections include your basic
         omelettes, pancakes, french toast, bacon and egg options, as well as
         pancake pops for those young at heart and incredible breakfast
         sandwiches on grilled french bread!  Weekend specials also offered! 
          Mmm....
+
+        The restaurant will be open every Thurs - Sun from 7:00 a.m. - noon.
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities.
