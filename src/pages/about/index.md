@@ -13,11 +13,12 @@ hero:
 heading: Yankee Trail Motel is located a short walk to Squam Lake in Holderness, NH
 description: Featuring 10 over-sized rooms with all the comforts of home.
   Oversized outdoor swimming pool, fire pit, and grill area. Many local
-  attractions! Breakfast restaurant opens as soon as COVID-19 restrictions end.
+  attractions! Breakfast restaurant serves Thurs - Sun 7:00 a.m. - noon.
 intro:
   blurbs:
     - image: /img/IMG_1211.jpg
-      text: Our rooms are spacious and provide all the comforts of home.
+      text: Our rooms are spacious and provide all the comforts of home. We offer two
+        King rooms and 8 Quadruple rooms (two double beds).
 main:
   heading: Escape to the Lakes
   description: The perfect getaway. Yankee Trail is in the heart of the Lakes and
