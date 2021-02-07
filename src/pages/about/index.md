@@ -12,22 +12,33 @@ hero:
   title: TKTK
 heading: Yankee Trail Motel is located a short walk to Squam Lake in Holderness, NH
 description: Featuring 10 over-sized rooms with all the comforts of home.
-  Oversized outdoor swimming pool, fire pit, and grill area. Many local
-  attractions! Breakfast restaurant serves Thurs - Sun 7:00 a.m. - noon.
+  Oversized outdoor swimming pool, fire pit, and grill area. Professional
+  horseshoe/corn hole pits await! Many local attractions! Breakfast restaurant
+  serves Fri- Sun 7:00 a.m. - noon (Reopening in Spring 2021)
 intro:
   blurbs:
     - image: /img/IMG_1211.jpg
-      text: Our rooms are spacious and provide all the comforts of home. We offer two
-        King rooms and 8 Quadruple rooms (two double beds).
+      text: Our rooms are spacious and provide all the comforts of home. We currently
+        offer two King rooms and 7 Quadruple rooms (two double beds).  A third
+        King room is in the works for the 2021 spring/summer season.
 main:
   heading: Escape to the Lakes
-  description: The perfect getaway. Yankee Trail is in the heart of the Lakes and
-    Mountain region of NH and offers its guests a true break. Yankee Trail is
-    close to all attractions including The Natural Science Center, golf, fishing
-    and much more including free WiFi. Come and enjoy all the Yankee Trail has
-    to offer.
+  description: >-
+    The perfect getaway.  The Yankee Trail is in the heart of the Lakes and
+    Mountains region of NH and offers guests all the comforts of home.  The
+    Yankee Trail is close to all attractions, including the Holderness Natural
+    Science Center, Laconia Weirs Beach, everything Lincoln, Waterville Valley
+    and Gun Stock.  The area boasts adventures of all kind, including golf,
+    fishing, hiking, snow mobiling, ATVing, zip lines and area beaches and local
+    trails.
+
+
+    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all, but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Winnepesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
+
+
+    We are announcing new specials for 2021 - be sure to book early!
   image1:
-    alt: Our 45,000 gallon pool is full and awaits the enjoyment of our motel
+    alt: Our 45,000 gallon pool awaits the enjoyment of our summer motel
       guests.  The pool boasts an 11' deep end.
     image: /img/IMG_0484.JPG
   image2:
@@ -39,11 +50,18 @@ main:
     image: /img/fullroom.jpg
 testimonials:
   - author: Tim Decareau on Facebook
-    quote: Nice cozy place. Wonderful customer service.
+    quote: '"Nice cozy place. Wonderful customer service."'
   - author: Ijklm5662 on TripAdvisor
-    quote: We stayed here while visiting our family this summer. Very convenient
+    quote: '"We stayed here while visiting our family this summer. Very convenient
       location in Holderness. I liked the fact that it only has a total of 10
-      rooms, so they take extra special care of you.
+      rooms, so they take extra special care of you."'
+  - quote: '"Really great motel.  The owners are great.  Very accomodating.  I will
+      definitely stay here again."'
+    author: Amy Rozzi, Facebook
+  - quote: '"I messed up my reservation and the staff was fast to change the date
+      for me.  Super friendly and the rooms were impeccably clean and
+      updated.  I would stay here again."'
+    author: Krystie Wood, Facebook
 full_image: /img/og-image.jpg
 pricing:
   heading: Room Rates
@@ -54,24 +72,28 @@ pricing:
     stay connected during your stay as Yankee Trail Motel offers guests free
     internet access.
   plans:
-    - description: Over-sized room including complementary WiFi, small fridge,
-        mini-microwave, and coffee machine.
+    - description: Oversized remodeled room with complementary WiFi.  Fee dependent on
+        season / holiday.
       items:
         - 2 Double beds
         - Air conditioning
-        - Cable TV
         - On Demand
+        - Mini-fridge
+        - Small microwave
+        - Keurig coffee machine with coffee
         - Pet Friendly
-      plan: 8 Double Bed Rooms
-      price: 110 + tax for non-holiday weekends
-    - description: Oversized rooms including a king bed, a twin bed, complementary
-        WiFi, and a large swimming pool
+      plan: 7 Double Bed Rooms
+      price: 110-150 + tax
+    - description: Oversized remodeled room with complementary WiFi.  Fee dependent on
+        season / holiday.
       items:
-        - 1 King bed
+        - 1 King Memory Foam bed
         - Air conditioning
-        - Cable TV
         - On Demand
+        - Mini-fridge
+        - Small microwave
+        - Keurig coffee machine with coffee
         - Pet Friendly
-      plan: 2 King Bed Rooms
-      price: 110 + tax for non-holiday weekends
+      plan: 2 King Bed Rooms (soon to be 3!)
+      price: 110-150 + tax
 ---
