@@ -39,7 +39,7 @@ intro:
     - image: /img/susan-varrieur.jpg
       text: Meet Susan Varrieur, our experienced and pleasant server - and, honestly,
         our biggest cheer leader! Susan’s bubbly personality awaits your visit,
-        and she will ensure your every need is met upon arrival.  Br sure to
+        and she will ensure your every need is met upon arrival.  Be sure to
         visit hungry!
     - image: /img/rick-lise-miller-2-.jpg
       text: In February 2020, we welcomed Rick and Lise Miller from Salem, NH, to our
