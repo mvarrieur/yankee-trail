@@ -20,30 +20,27 @@ description: "Yankee Trail is located near the famous Squam Lake, or 'On Golden
 intro:
   blurbs:
     - image: /img/img_1639.jpg
-      text: >
-        Our Breakfast Restaurant is completely remodeled and opening Friday, Jun
-        26th!  Our menu is planned and we look forward to providing our guests
-        and the local community with a delicious hot meal to enjoy before
-        beginning each day's adventure!  Selections include your basic
-        omelettes, pancakes, french toast, bacon and egg options, as well as
+      text: >-
+        Our Breakfast Restaurant is completely remodeled and will reopen in
+        Spring 2021!  We offer indoor and outdoor seating, and our restaurant is
+        open to the public! Our 2021 menu is planned and we look forward to
+        providing our guests and the local community with deliciously hot meals
+        to enjoy before beginning each day's adventure!  Selections include your
+        basic omelets, pancakes, French toast, bacon and egg options, as well as
         pancake pops for those young at heart and incredible breakfast
-        sandwiches on grilled french bread!  Weekend specials also offered! 
-         Mmm....
-
-        Our restaurant grand opening is Friday, Jun 26th, from 7:00 a.m. - noon.  Beginning Jun 26th, our restaurant will be open every Thur - Sun from 7:00 a.m. - noon.
+        sandwiches on grilled French bread!  Got a particular diet need? Let us
+        know, and we will do our best to accommodate.  Weekend specials also
+        offered! 
+         Mmm.... Once our restaurant does reopen, our hours will be 7:00 a.m. - 11:00 a.m. every Friday - Sunday. 
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
-        personal Kuerig coffee machine.
+        personal Kuerig coffee machine with complimentary coffee.
     - image: /img/susan-varrieur.jpg
-      text: Our completely remodeled Breakfast Restaurant opens Jun 26th!  Our
-        experienced and pleasant server, Susan Varrieur, will be standing by to
-        ensure your every need is met.  Be sure to visit hungry!  An all
-        American breakfast will be offered, including pancake pops on our
-        children's menu, and Rick's famous breakfast sandwiches served on
-        grilled italian bread loaves.  Bill's infamouse blueberry french toast
-        will be offered among numerous daily specials, all of which are sure to
-        amaze!  We can't wait to serve our community and guests!
+      text: Meet Susan Varrieur, our experienced and pleasant server - and, honestly,
+        our biggest cheer leader! Susan’s bubbly personality awaits your visit,
+        and she will ensure your every need is met upon arrival.  Br sure to
+        visit hungry!
     - image: /img/rick-lise-miller-2-.jpg
       text: In February 2020, we welcomed Rick and Lise Miller from Salem, NH, to our
         team.  Rick and Lise have graciously pulled themselves from the depths
