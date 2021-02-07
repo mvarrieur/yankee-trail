@@ -12,9 +12,9 @@ hero:
   title: TKTK
 heading: Yankee Trail Motel is located a short walk to Squam Lake in Holderness, NH
 description: Featuring 10 over-sized rooms with all the comforts of home.
-  Oversized outdoor swimming pool, fire pit, and grill area. Professional
-  horseshoe/corn hole pits await! Many local attractions! Breakfast restaurant
-  serves Fri- Sun 7:00 a.m. - noon (Reopening in Spring 2021)
+  Oversized outdoor swimming pool, fire pit, yard games and grill area.
+  Professional horseshoe/corn hole pits await! Many local attractions! Breakfast
+  restaurant serves Fri - Sun 7:00 a.m. - noon (Reopening in Spring 2021)
 intro:
   blurbs:
     - image: /img/IMG_1211.jpg
@@ -26,11 +26,11 @@ main:
   description: >-
     The perfect getaway.  The Yankee Trail is in the heart of the Lakes and
     Mountains region of NH and offers guests all the comforts of home.  The
-    Yankee Trail is close to all attractions, including the Holderness Natural
-    Science Center, Laconia Weirs Beach, everything Lincoln, Waterville Valley
-    and Gun Stock.  The area boasts adventures of all kind, including golf,
-    fishing, hiking, snow mobiling, ATVing, zip lines and area beaches and local
-    trails.
+    Yankee Trail is close to many attractions, including the Holderness Natural
+    Science Center, Laconia’s Weirs Beach, everything Lincoln, Waterville Valley
+    and Gun Stock, to name a few.  The area boasts adventures of all kinds,
+    including golf, fishing, hiking, snow mobiling, ATVing, zip lines, area
+    beaches, and local trails.
 
 
     Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all, but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Winnepesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
@@ -70,7 +70,7 @@ pricing:
     and convenience, we offer an array of amenities designed for travelers like
     you. You’ll enjoy relaxing rooms that offer air conditioning, and you can
     stay connected during your stay as Yankee Trail Motel offers guests free
-    internet access.
+    high-speed internet access.
   plans:
     - description: Oversized remodeled room with complementary WiFi.  Fee dependent on
         season / holiday.
