@@ -75,7 +75,7 @@ pricing:
     - description: Oversized remodeled room with complementary WiFi.  Fee dependent on
         season / holiday.
       items:
-        - 2 Double beds
+        - 2 Double Memory Foam beds
         - Air conditioning
         - On Demand
         - Mini-fridge
