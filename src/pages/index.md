@@ -20,8 +20,7 @@ description: "Yankee Trail is located near the famous Squam Lake, or 'On Golden
 intro:
   blurbs:
     - image: /img/img_1639.jpg
-      text: >-
-        Our Breakfast Restaurant is completely remodeled and will reopen in
+      text: "Our Breakfast Restaurant is completely remodeled and will reopen in
         Spring 2021!  We offer indoor and outdoor seating, and our restaurant is
         open to the public! Our 2021 menu is planned and we look forward to
         providing our guests and the local community with deliciously hot meals
@@ -30,15 +29,15 @@ intro:
         pancake pops for those young at heart and incredible breakfast
         sandwiches on grilled French bread!  Got a particular diet need? Let us
         know, and we will do our best to accommodate.  Weekend specials also
-        offered! 
-         Mmm.... Once our restaurant does reopen, our hours will be 7:00 a.m. - 11:00 a.m. every Friday - Sunday. 
+        offered!   Mmm.... Once our restaurant does reopen, our hours will be
+        7:00 a.m. - 11:00 a.m. every Friday - Sunday. "
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
         personal Kuerig coffee machine with complimentary coffee.
     - image: /img/susan-varrieur.jpg
       text: Meet Susan Varrieur, our experienced and pleasant server - and, honestly,
-        our biggest cheer leader! Susan’s bubbly personality awaits your visit,
+        our biggest cheerleader! Susan’s bubbly personality awaits your visit,
         and she will ensure your every need is met upon arrival.  Be sure to
         visit hungry!
     - image: /img/rick-lise-miller-2-.jpg
