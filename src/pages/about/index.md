@@ -72,8 +72,9 @@ pricing:
     stay connected during your stay as Yankee Trail Motel offers guests free
     high-speed internet access.
   plans:
-    - description: Oversized remodeled room with complementary WiFi.  Fee dependent on
-        season / holiday.
+    - description: Completely remodeled oversized room with complementary WiFi.  Fee
+        dependent on season / holiday. Holiday rate is $200 + tax.  Rates are
+        for 2 people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds
         - Air conditioning
@@ -83,9 +84,10 @@ pricing:
         - Keurig coffee machine with coffee
         - Pet Friendly
       plan: 7 Double Bed Rooms
-      price: 110-150 + tax
-    - description: Oversized remodeled room with complementary WiFi.  Fee dependent on
-        season / holiday.
+      price: 125-175 + 8.5% tax
+    - description: Newly remodeled oversized room with complementary WiFi.  Fee
+        dependent on season / holiday. Holiday rate is $200 + tax. Rates are for
+        2 people.  Additional adult(s) $10/night/adult.
       items:
         - 1 King Memory Foam bed
         - Air conditioning
@@ -95,5 +97,5 @@ pricing:
         - Keurig coffee machine with coffee
         - Pet Friendly
       plan: 2 King Bed Rooms (soon to be 3!)
-      price: 110-150 + tax
+      price: 125-175 + 8.5% tax
 ---
