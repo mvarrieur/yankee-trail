@@ -26,7 +26,7 @@ intro:
         front, while keeping our red, white and blue theme.
 
 
-        Our floorplans are spacious and ,all rooms will provide all the comforts of home, including a mini-fridge, microwave and Keurig coffee maker (coffee provided). We currently offer three King rooms and seven Quadruple rooms (two double beds).  
+        Our floorplans are spacious, and all rooms offer a mini-fridge, microwave, Keurig coffee maker (coffee provided) and blow dryers. We currently offer three King rooms and seven rooms with two double (full) beds.  
 main:
   heading: Escape to the Lakes
   description: >
