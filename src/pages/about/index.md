@@ -74,7 +74,7 @@ testimonials:
       for me.  Super friendly and the rooms were impeccably clean and
       updated.  I would stay here again."'
     author: Krystie Wood, Facebook
-full_image: /img/og-image.jpg
+full_image: /img/squam-vista.jpg
 pricing:
   heading: Room Rates
   description: See why so many travelers make Yankee Trail Motel their motel of
