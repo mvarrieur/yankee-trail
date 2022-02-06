@@ -38,6 +38,17 @@ intro:
         personal Kuerig coffee machine with complimentary coffee.  All rooms are
         currently under complete renovations - come back soon to see the final
         results!  We think you'll like them!
+    - image: /img/horseshoe-ariel.jpg
+      text: >-
+        The Yankee Trail Motel boasts 3 professional regulation horseshoe pits
+        that can also be used for corn hole.  The owner, Charlene, is an avid
+        horseshoe pitcher and seeks to plan weekly pick up games, as well as
+        organized tournaments, for locals and travelers.  20% of any tournament
+        fees are slated for quarterly local community donations, while the
+        remainder goes to winner payouts.  
+
+
+        Want to organize your own group tournament event or fundraiser?  Contact Charlene on her personal mobile at 508-717-4777.
     - image: /img/rachel-robie.jpg
       text: Meet Rachel Robie, our local Chef / General Manager.  Rachel is an alumni
         of the Plymouth Regional High School's Culinary Arts Program, who has
