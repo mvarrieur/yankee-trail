@@ -23,7 +23,7 @@ intro:
       text: >-
         Our Breakfast Restaurant was completely remodeled and reopened in Spring
         2021.  We renamed the restaurant KC's Kitchen & Catering in September
-        2021, when local Chef/General Manager, Rachel Robie joined our
+        2021, when local Chef/General Manager, Rachel Robie, joined our
         team.  The restaurant name was derived from the owners' names, Kevin &
         Charlene.  
 
