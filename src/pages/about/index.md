@@ -27,6 +27,15 @@ intro:
 
 
         Our floorplans are spacious, and all rooms offer a mini-fridge, microwave, Keurig coffee maker (coffee provided) and blow dryers. We currently offer three King rooms and seven rooms with two double (full) beds.  
+    - image: /img/picture2.jpg
+      text: Currently Open every FRI-SUN 7:00 - Noon (days to expand in Spring).  Our
+        motel boasts a small on-sight breakfast restaurant, KC's Kitchen &
+        Catering, open to our guests and the public.  Come meet our General
+        Manager/Chef, Rachel Robie. Our breakfast restaurant and catering
+        services offer home-cooked meals made with local ingredients.  Our hours
+        may be for breakfast, but we offer so much more!  Whether you are
+        looking for take-home meals for two or for 100, you will not be
+        disappointed with our options and the taste!
 main:
   heading: Escape to the Lakes
   description: >
@@ -45,15 +54,8 @@ main:
       guests.  The pool boasts an 11' deep end.
     image: /img/IMG_0484.JPG
   image2:
-    alt: Currently Open every FRI-SUN 7:00 - Noon (days to expand in Spring).  Our
-      motel boasts a small on-sight breakfast restaurant, KC's Kitchen &
-      Catering, open to our guests and the public.  Come meet our General
-      Manager/Chef, Rachel Robie. Our breakfast restaurant and catering services
-      offer home-cooked meals made with local ingredients.  Our hours may be for
-      breakfast, but we offer so much more!  Whether you are looking for
-      take-home meals for two or for 100, you will not be disappointed with our
-      options and the taste!
-    image: /img/picture2.jpg
+    alt: On site breakfast restaurant open every FRI-SUN 7-Noon.
+    image: /img/kcc-kitchen-logo.jpg
   image3:
     alt: Photo of motel room (pre-construction). New photos to come as construction
       completes.
@@ -94,7 +96,7 @@ pricing:
         - Keurig coffee machine with coffee
         - Pet Friendly
       plan: 7 Double Bed Rooms
-      price: 125-175 + 8.5% tax
+      price: 125 (off-season)-$175 (in-season) + 8.5% tax
     - description: Newly remodeled oversized room with complementary WiFi.  Rate
         dependent on season / holiday. Holiday rate is $200 + tax. Rates are for
         2 people.  Additional adult(s) $10/night/adult.
@@ -106,6 +108,6 @@ pricing:
         - Small microwave
         - Keurig coffee machine with coffee
         - Pet Friendly
-      plan: 2 King Bed Rooms (soon to be 3!)
-      price: 125-175 + 8.5% tax
+      plan: 3 King Bed Rooms
+      price: 125 (off-season) -$175 (in-season) + 8.5% tax
 ---
