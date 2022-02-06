@@ -14,7 +14,7 @@ heading: Yankee Trail Motel is located a short walk to Squam Lake in Holderness,
 description: Featuring 10 over-sized rooms with all the comforts of home.
   Oversized outdoor swimming pool, fire pit, yard games and grill area.
   Professional horseshoe/corn hole pits await! Many local attractions! Breakfast
-  restaurant serves Fri - Sun 7:00 a.m. - noon (Reopening in Spring 2021)
+  restaurant serves Fri - Sun 7:00 a.m. - Noon - Open to the Public!
 intro:
   blurbs:
     - image: /img/room-reno.jpg
@@ -39,7 +39,7 @@ main:
     beaches, and local trails.
 
 
-    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all, but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
+    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
   image1:
     alt: Our 45,000 gallon pool awaits the enjoyment of our summer motel
       guests.  The pool boasts an 11' deep end.
