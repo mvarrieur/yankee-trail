@@ -17,36 +17,46 @@ description: Featuring 10 over-sized rooms with all the comforts of home.
   restaurant serves Fri - Sun 7:00 a.m. - noon (Reopening in Spring 2021)
 intro:
   blurbs:
-    - image: /img/IMG_1211.jpg
-      text: Our rooms are spacious and provide all the comforts of home. We currently
-        offer two King rooms and 7 Quadruple rooms (two double beds).  A third
-        King room is in the works for the 2021 spring/summer season.
+    - image: /img/room-reno.jpg
+      text: >-
+        Currently, our entire motel is under complete renovation - down to the
+        studs.  Come spring 2022, all rooms will have new electric, plumbing,
+        bathrooms, floors, walls, doors, windows, heat and air conditioning.
+        Exterior enhancements are also in store, with a faux stone and vinyl
+        front, while keeping our red, white and blue theme.
+
+
+        Our floorplans are spacious and ,all rooms will provide all the comforts of home, including a mini-fridge, microwave and Keurig coffee maker (coffee provided). We currently offer three King rooms and seven Quadruple rooms (two double beds).  
 main:
   heading: Escape to the Lakes
-  description: >-
+  description: >
     The perfect getaway.  The Yankee Trail is in the heart of the Lakes and
     Mountains region of NH and offers guests all the comforts of home.  The
     Yankee Trail is close to many attractions, including the Holderness Natural
     Science Center, Laconia’s Weirs Beach, everything Lincoln, Waterville Valley
     and Gun Stock, to name a few.  The area boasts adventures of all kinds,
-    including golf, fishing, hiking, snow mobiling, ATVing, zip lines, area
+    including golf, fishing, hiking, snowmobiling, ATVing, zip lines, area
     beaches, and local trails.
 
 
-    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all, but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Winnepesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
-
-
-    We are announcing new specials for 2021 - be sure to book early!
+    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all, but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
   image1:
     alt: Our 45,000 gallon pool awaits the enjoyment of our summer motel
       guests.  The pool boasts an 11' deep end.
     image: /img/IMG_0484.JPG
   image2:
-    alt: Remodeling with a new color scheme - Red, White and Blue; as we make The
-      Yanke Trail great again!
-    image: /img/img_1649.jpg
+    alt: Currently Open every FRI-SUN 7:00 - Noon (days to expand in Spring).  Our
+      motel boasts a small on-sight breakfast restaurant, KC's Kitchen &
+      Catering, open to our guests and the public.  Come meet our General
+      Manager/Chef, Rachel Robie. Our breakfast restaurant and catering services
+      offer home-cooked meals made with local ingredients.  Our hours may be for
+      breakfast, but we offer so much more!  Whether you are looking for
+      take-home meals for two or for 100, you will not be disappointed with our
+      options and the taste!
+    image: /img/picture2.jpg
   image3:
-    alt: Photo of motel room
+    alt: Photo of motel room (pre-construction). New photos to come as construction
+      completes.
     image: /img/fullroom.jpg
 testimonials:
   - author: Tim Decareau on Facebook
@@ -72,7 +82,7 @@ pricing:
     stay connected during your stay as Yankee Trail Motel offers guests free
     high-speed internet access.
   plans:
-    - description: Completely remodeled oversized room with complementary WiFi.  Fee
+    - description: Completely remodeled oversized room with complementary WiFi.  Rate
         dependent on season / holiday. Holiday rate is $200 + tax.  Rates are
         for 2 people.  Additional adult(s) $10/night/adult.
       items:
@@ -85,7 +95,7 @@ pricing:
         - Pet Friendly
       plan: 7 Double Bed Rooms
       price: 125-175 + 8.5% tax
-    - description: Newly remodeled oversized room with complementary WiFi.  Fee
+    - description: Newly remodeled oversized room with complementary WiFi.  Rate
         dependent on season / holiday. Holiday rate is $200 + tax. Rates are for
         2 people.  Additional adult(s) $10/night/adult.
       items:
