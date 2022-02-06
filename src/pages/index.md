@@ -14,37 +14,46 @@ heading: Our Motel
 description: "Yankee Trail is located near the famous Squam Lake, or 'On Golden
   Pond' as it was known in the famous 1981 movie with Henry Fonda and Katharine
   Hepburn, in Holderness, New Hampshire. Our family-owned and operated motel is
-  also close to Lakes Winnipesaukee and Little Squam. We pride ourselves in
-  making your trip to the Lakes and Mountain Region an affordable and
-  unforgettable experience. "
+  also close to Lakes Winnipesaukee, Little Squam, Newfound Lake and more. We
+  pride ourselves in making your trip to the Lakes and Mountains Region an
+  affordable and unforgettable experience. "
 intro:
   blurbs:
     - image: /img/img_1639.jpg
-      text: "Our Breakfast Restaurant is completely remodeled and will reopen in
-        Spring 2021!  We offer indoor and outdoor seating, and our restaurant is
-        open to the public! Our 2021 menu is planned and we look forward to
-        providing our guests and the local community with deliciously hot meals
-        to enjoy before beginning each day's adventure!  Selections include your
-        basic omelets, pancakes, French toast, bacon and egg options, as well as
-        pancake pops for those young at heart and incredible breakfast
-        sandwiches on grilled French bread!  Got a particular diet need? Let us
-        know, and we will do our best to accommodate.  Weekend specials also
-        offered!   Mmm.... Once our restaurant does reopen, our hours will be
-        7:00 a.m. - 11:00 a.m. every Friday - Sunday. "
+      text: >-
+        Our Breakfast Restaurant was completely remodeled and reopened in Spring
+        2021.  We renamed the restaurant KC's Kitchen & Catering in September
+        2021, when local Chef/General Manager, Rachel Robie joined our
+        team.  The restaurant name was derived from the owners' names, Kevin &
+        Charlene.  
+
+
+        KC's offers a full breakfast menu, though we also offer catering for any occasion (up to ~100 people).  Outdoor seating is available starting in the Spring season! Planning an outdoor day trip? We'll be offering Grab N Go lunches to take on your adventure. Inquire within!
+
+
+        KC's Kitchen & Catering is open to the public year round 7:00 a.m. - Noon every Friday - Sunday. 
     - image: /img/fullroom.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
-        personal Kuerig coffee machine with complimentary coffee.
-    - image: /img/susan-varrieur.jpg
-      text: Meet Susan Varrieur, our experienced and pleasant server - and, honestly,
-        our biggest cheerleader! Susan’s bubbly personality awaits your visit,
-        and she will ensure your every need is met upon arrival.  Be sure to
-        visit hungry!
+        personal Kuerig coffee machine with complimentary coffee.  All rooms are
+        currently under complete renovations - come back soon to see the final
+        results!  We think you'll like them!
+    - image: /img/rachel-robie.jpg
+      text: Meet Rachel Robie, our local Chef / General Manager.  Rachel is an alumni
+        of the Plymouth Regional High School's Culinary Arts Program, who has
+        since become an acclaimed chef throughout central New Hampshire.  As a
+        practicing catering chef in Concord, NH, Rachel was awarded the City's
+        prestigious CAPPIE Aware for Best Lunch and Catering during 6 of her 8
+        years in Concord. We are fortunate to have her join our team to bring
+        outstanding home cooked meals - made with local ingredients - from our
+        kitchen to your table.
     - image: /img/rick-lise-miller-2-.jpg
       text: In February 2020, we welcomed Rick and Lise Miller from Salem, NH, to our
-        team.  Rick and Lise have graciously pulled themselves from the depths
-        of retirement to work their magic in our kitchen.  Lise is a former
-        restaurant owner and brings with her behind-the-scenes restaurant
-        experience, as much as she brings experience from behind the
-        griddle.  You will not be disappointed!
+        team.  Rick and Lise graciously pulled themselves from the depths of
+        retirement to work their magic in our kitchen to help get us started -
+        and a great start it was!  While Rick and Lise will return to the joys
+        of retirement, they plan to stay on board as part of our family to
+        assist in any restaurant back-up activities or property enhancement
+        projects. We are forever indebted, and they will forever be a part of
+        the Yankee Trail family!
 ---
