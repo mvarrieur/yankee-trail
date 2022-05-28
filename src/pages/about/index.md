@@ -60,7 +60,7 @@ main:
   image3:
     alt: Dressing area - spacious enough for two people to get ready for that
       wedding, concert, or special event.
-    image: /img/dressing-area-with-mirror-view.jpg
+    image: /img/dressing-area-with-mirror-view2.jpg
 testimonials:
   - author: Tim Decareau on Facebook
     quote: '"Nice cozy place. Wonderful customer service."'
