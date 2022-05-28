@@ -60,7 +60,7 @@ main:
   image3:
     alt: Photo of motel room (pre-construction). New photos to come as construction
       completes.
-    image: /img/dry-kitchen-through-full-mirror.jpg
+    image: /img/dressing-area-with-mirror-view.jpg
 testimonials:
   - author: Tim Decareau on Facebook
     quote: '"Nice cozy place. Wonderful customer service."'
