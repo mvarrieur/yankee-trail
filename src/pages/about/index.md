@@ -17,25 +17,26 @@ description: Featuring 10 over-sized rooms with all the comforts of home.
   restaurant serves Fri - Sun 7:00 a.m. - Noon - Open to the Public!
 intro:
   blurbs:
-    - image: /img/room-reno.jpg
+    - image: /img/bathroom-quiet-spot.jpg
       text: >-
-        Currently, our entire motel is under complete renovation - down to the
-        studs.  Come spring 2022, all rooms will have new electric, plumbing,
+        Our entire motel underwent complete renovation in 2022 - down to the
+        studs.  All rooms have new electric (include USB outlets), plumbing,
         bathrooms, floors, walls, doors, windows, heat and air conditioning.
-        Exterior enhancements are also in store, with a faux stone and vinyl
-        front, while keeping our red, white and blue theme.
+        Exterior enhancements are also complete with a new walkway and vinyl
+        front, while keeping our red, white and blue theme. (Welcoming red doors
+        are in progress.)
 
 
         Our floorplans are spacious, and all rooms offer a mini-fridge, microwave, Keurig coffee maker (coffee provided) and blow dryers. We currently offer three King rooms and seven rooms with two double (full) beds.  
     - image: /img/picture2.jpg
-      text: Currently Open every FRI-SUN 7:00 - Noon (days to expand in Spring).  Our
-        motel boasts a small on-sight breakfast restaurant, KC's Kitchen &
-        Catering, open to our guests and the public.  Come meet our General
-        Manager/Chef, Rachel Robie. Our breakfast restaurant and catering
-        services offer home-cooked meals made with local ingredients.  Our hours
-        may be for breakfast, but we offer so much more!  Whether you are
-        looking for take-home meals for two or for 100, you will not be
-        disappointed with our options and the taste!
+      text: Currently Open every FRI-SUN 7:00 - Noon.  Our motel boasts a small
+        on-sight breakfast restaurant, KC's Kitchen & Catering, open to our
+        guests and the public.  Come meet our General Manager/Chef, Rachel
+        Robie. Our breakfast restaurant and catering services offer home-cooked
+        meals made with local ingredients.  Our hours may be for breakfast, but
+        we offer so much more!  Whether you are looking for take-home meals for
+        two or for 100, you will not be disappointed with our options and the
+        taste!  Numerous options for BBQ Catering available.
 main:
   heading: Escape to the Lakes
   description: >
@@ -59,7 +60,7 @@ main:
   image3:
     alt: Photo of motel room (pre-construction). New photos to come as construction
       completes.
-    image: /img/fullroom.jpg
+    image: /img/dry-kitchen-through-full-mirror.jpg
 testimonials:
   - author: Tim Decareau on Facebook
     quote: '"Nice cozy place. Wonderful customer service."'
@@ -95,7 +96,7 @@ pricing:
         - Small microwave
         - Keurig coffee machine with coffee
         - Pet Friendly
-      plan: 7 Double Bed Rooms
+      plan: 7 Double Bed Rooms (2022)
       price: 125 (off-season)-$175 (in-season) + 8.5% tax
     - description: Newly remodeled oversized room with complementary WiFi.  Rate
         dependent on season / holiday. Holiday rate is $200 + tax. Rates are for
@@ -108,6 +109,32 @@ pricing:
         - Small microwave
         - Keurig coffee machine with coffee
         - Pet Friendly
-      plan: 3 King Bed Rooms
+      plan: 3 King Bed Rooms (2022)
       price: 125 (off-season) -$175 (in-season) + 8.5% tax
+    - plan: 7 Double Bed Rooms (2023)
+      price: 140 (off-season)-$195 (in-season) + 8.5% tax
+      description: Completely remodeled oversized room with complementary WiFi.  Rate
+        dependent on season / holiday. Holiday rate is $225 + tax.  Rates are
+        for 2 people.  Additional adult(s) $10/night/adult.
+      items:
+        - 2 Double Memory Foam beds
+        - Air conditioning
+        - On Demand
+        - Mini-fridge
+        - Small microwave
+        - Keurig coffee machine with coffee
+        - Pet Friendly
+    - plan: 3 King Bed Rooms (2023)
+      price: 140 (off-season)-$195 (in-season) + 8.5% tax
+      description: Completely remodeled oversized room with complementary WiFi.  Rate
+        dependent on season / holiday. Holiday rate is $225 + tax.  Rates are
+        for 2 people.  Additional adult(s) $10/night/adult.
+      items:
+        - 1 King Memory Foam bed
+        - Air conditioning
+        - On Demand
+        - Mini-fridge
+        - Small microwave
+        - Keurig coffee machine with coffee
+        - Pet Friendly
 ---
