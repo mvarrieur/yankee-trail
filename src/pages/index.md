@@ -32,12 +32,13 @@ intro:
 
 
         KC's Kitchen & Catering is open to the public year round 7:00 a.m. - Noon every Friday - Sunday. 
-    - image: /img/fullroom.jpg
+    - image: /img/view-upon-entry-king-room.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
-        personal Kuerig coffee machine with complimentary coffee.  All rooms are
-        currently under complete renovations - come back soon to see the final
-        results!  We think you'll like them!
+        personal Kuerig coffee machine with complimentary coffee.  No more
+        carpet. New Heat and AC, new bathroom installations, new floors, doors,
+        windows, and, well, everything. This demonstrates a sample of one of our
+        King rooms.
     - image: /img/horseshoe-ariel.jpg
       text: >-
         The Yankee Trail Motel boasts 3 professional regulation horseshoe pits
