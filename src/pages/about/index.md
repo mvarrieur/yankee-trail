@@ -58,8 +58,8 @@ main:
     alt: On site breakfast restaurant open every FRI-SUN 7-Noon.
     image: /img/kcc-kitchen-logo.jpg
   image3:
-    alt: Photo of motel room (pre-construction). New photos to come as construction
-      completes.
+    alt: Dressing area - spacious enough for two people to get ready for that
+      wedding, concert, or special event.
     image: /img/dressing-area-with-mirror-view.jpg
 testimonials:
   - author: Tim Decareau on Facebook
