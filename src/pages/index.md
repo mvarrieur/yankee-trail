@@ -31,7 +31,7 @@ intro:
         KC's offers a full breakfast menu, though we also offer catering for any occasion (up to ~100 people).  Outdoor seating is available starting in the Spring season! Planning an outdoor day trip? We'll be offering Grab N Go lunches to take on your adventure. Inquire within!
 
 
-        KC's Kitchen & Catering is open to the public year round 7:00 a.m. - Noon every Friday - Sunday. 
+        KC's Kitchen & Catering is open to the public year round 7:00 a.m. - Noon every Thursday - Sunday. 
     - image: /img/view-upon-entry-king-room.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
@@ -55,7 +55,7 @@ intro:
         of the Plymouth Regional High School's Culinary Arts Program, who has
         since become an acclaimed chef throughout central New Hampshire.  As a
         practicing catering chef in Concord, NH, Rachel was awarded the City's
-        prestigious CAPPIE Aware for Best Lunch and Catering during 6 of her 8
+        prestigious CAPPIE Award for Best Lunch and Catering during 6 of her 8
         years in Concord. We are fortunate to have her join our team to bring
         outstanding home cooked meals - made with local ingredients - from our
         kitchen to your table.
