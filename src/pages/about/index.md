@@ -55,7 +55,8 @@ main:
       guests.  The pool boasts an 11' deep end.
     image: /img/IMG_0484.JPG
   image2:
-    alt: On site breakfast restaurant open every FRI-SUN 7-Noon.
+    alt: Our motel features an onsite breakfast restaurant offering complimentary
+      continental breakfast to our guests.
     image: /img/kcc-kitchen-logo.jpg
   image3:
     alt: Dressing area - spacious enough for two people to get ready for that
