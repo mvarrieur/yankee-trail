@@ -50,20 +50,11 @@ intro:
 
 
         Want to organize your own group tournament event or fundraiser?  Contact Charlene on her personal mobile at 508-717-4777.
-    - image: /img/rachel-robie.jpg
-      text: Meet Rachel Robie, our local Chef / General Manager.  Rachel is an alumni
-        of the Plymouth Regional High School's Culinary Arts Program, who has
-        since become an acclaimed chef throughout central New Hampshire.  As a
-        practicing catering chef in Concord, NH, Rachel was awarded the City's
-        prestigious CAPPIE Award for Best Lunch and Catering during 6 of her 8
-        years in Concord. We are fortunate to have her join our team to bring
-        outstanding home cooked meals - made with local ingredients - from our
-        kitchen to your table.
     - image: /img/rick-lise-miller-2-.jpg
       text: In February 2020, we welcomed Rick and Lise Miller from Salem, NH, to our
         team.  Rick and Lise graciously pulled themselves from the depths of
         retirement to work their magic in our kitchen to help get us started -
-        and a great start it was!  While Rick and Lise will return to the joys
+        and a great start it was!  While Rick and Lise have returned to the joys
         of retirement, they plan to stay on board as part of our family to
         assist in any restaurant back-up activities or property enhancement
         projects. We are forever indebted, and they will forever be a part of
