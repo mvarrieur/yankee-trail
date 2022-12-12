@@ -46,6 +46,6 @@
   },
   "devDependencies": {
     "gatsby-plugin-react-svg": "^3.0.0",
-    "prettier": "^2.0.5"
+    "prettier": "^2.8.1"
   }
 }
