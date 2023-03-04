@@ -199,13 +199,12 @@ pricing:
         - Pet Friendly [$25 fee/pet  - max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
-    - plan: Off-Season HOLIDAY RATE PLAN
+    - plan: Off-Season HOLIDAY RATE PLAN (Jan 1; Feb 17-19, 24, 25; Nov 21-24; Dec 24,
+        25, 31, 2023; Jan 1, Feb 16-18, 23-24, 2024)
       price: "179 King Bed or 2 Full Beds "
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
-        ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
-        Apr 16-20, 2023. Completely remodeled, oversized, comfortably decorated
-        room with complementary WiFi.  Rates are for 2 people.  Additional
-        adult(s) $10/night/adult.
+      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
+        remodeled, oversized, comfortably decorated room with complementary
+        WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - WiFi
