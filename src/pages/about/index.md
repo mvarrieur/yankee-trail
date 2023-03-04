@@ -218,4 +218,24 @@ pricing:
         - Pet Friendly [$25 fee/pet  - Max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
+    - plan: In-Season and High-Season HOLIDAY RATE PLAN (May 26-28; Jun 9-17, 30; Jul
+        1-8; Aug 18-19; Sep 1-3; Oct 6-8, 13-14, 2023)
+      price: 299 King Bed or 2 Full Beds (Multi-Nite Rate)
+      description: Single-Nite Weekend Rate is $319. Add 8.5% NH Meals/Room Tax to all
+        rates. Excludes Gratuities. Completely remodeled, oversized, comfortably
+        decorated room with complementary WiFi.  Rates are for 2
+        people.  Additional adult(s) $10/night/adult.
+      items:
+        - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - WiFi
+        - Heat / Air Conditioning
+        - TV
+        - Mini-fridge
+        - Small microwave
+        - Keurig coffee machine with coffee
+        - Ice Bucket
+        - Blow Dryer
+        - Pet Friendly [$25 fee/pet  - Max 2]
+        - Air mattress available upon request [$25 fee]
+        - Complimentary Breakfast
 ---
