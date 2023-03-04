@@ -36,22 +36,22 @@ intro:
         The restaurant now serves more as our kitchen, dining and living space where we invite our guests to join us for breakfast appetizers while we make your breakfast to order.  We have no menu.  We primarily cook your basic American breakfast options to order or provide homemade specials. 
 
 
-        When arranged in advance with your reservation, our dining space is available to group guests as a common area for gathering in hot, cold, or inclement weather.  BBQ or other Dinner options are available upon requests for guests arriving in groups.
+        When arranged in advance with your reservation, our dining space is available to group guests as a common area for gathering in hot, cold, or inclement weather.  BBQ or other Dinner options are available upon request for guests arriving in groups.
 
 
-        Guests are also welcome to utilize our the BBQ grill for their own use, should you choose to have dinner at 'home'.
+        Guests are also welcome to utilize the outdoor BBQ grill for their own use, should you choose to have dinner at 'home'.
 
 
         Off Season (Nov-Apr):  8:00 a.m. - 10:00 a.m.
 
         In-Season (May-Oct):  7:00 a.m. - 10:00 a.m.
     - image: /img/view-upon-entry-king-room.jpg
-      text: Our ten clean, over-sized motel rooms feature great family accommodations
+      text: "Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
         personal Kuerig coffee machine with complimentary coffee.  No more
         carpet!! New Heat and AC, new bathroom installations, new floors, doors,
         windows, and, well, everything. This demonstrates a sample of one of our
-        King rooms.
+        King rooms.  Rooms with two full-size beds are also available.  "
     - image: /img/horseshoe-ariel.jpg
       text: >-
         The Yankee Trail Motel boasts 3 professional regulation horseshoe pits
@@ -71,8 +71,8 @@ intro:
         Forever Grateful
 
 
-        This is Rick and Lise Miller from Salem, NH.  Our dear friends who graciously helped get us started - be it tearing down walls, sewing curtains, painting, prepping the restaurant, baking the homemade muffins, painting, serving the omelets and home fries with bacon, did I mention painting?, splitting firewood, building campfires, serving crockpot dinners - there was no job too small.  And there was a little painting needed.
+        This is Rick and Lise Miller from Salem, NH.  Our dear friends who graciously helped get us started - be it tearing down walls, sewing curtains, painting, prepping the restaurant, baking  homemade muffins, painting, serving the omelets and home fries with bacon/sausage, (did I mention painting?), splitting firewood, building campfires, serving crockpot dinners - there was no job too small.  And there was a little painting needed.
 
 
-        While Rick left us for his eternal journey in 2022, we are forever grateful to them both for the friendship, support, and elbow grease they gave us to get started. We are honored to consider them family.
+        While Rick left us for his eternal journey in 2022, we are forever grateful to them both for their friendship, support, and the elbow grease and restaurant expertise they gave us to get started. We are honored to consider them family.
 ---
