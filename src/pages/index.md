@@ -22,6 +22,13 @@ description: Yankee Trail is located near the famous Squam Lake, or 'On Golden
   center of it all!
 intro:
   blurbs:
+    - image: /img/view-upon-entry-king-room.jpg
+      text: "Our ten clean, over-sized motel rooms feature great family accommodations
+        with many amenities, including blow dryer, microwave, mini-fridge, and
+        personal Kuerig coffee machine with complimentary coffee.  No more
+        carpet!! New Heat and AC, new bathroom installations, new floors, doors,
+        windows, and, well, everything. This demonstrates a sample of one of our
+        King rooms.  Rooms with two full-size beds are also available.  "
     - image: /img/img_1639.jpg
       text: >-
         The former Breakfast Restaurant was completely remodeled in Spring
@@ -36,22 +43,24 @@ intro:
         The restaurant now serves more as our kitchen, dining and living space where we invite our guests to join us for breakfast appetizers while we make your breakfast to order.  We have no menu.  We primarily cook your basic American breakfast options to order or provide homemade specials. 
 
 
-        When arranged in advance with your reservation, our dining space is available to group guests as a common area for gathering in hot, cold, or inclement weather.  BBQ or other Dinner options are available upon request for guests arriving in groups.
+        When arranged in advance with your reservation, our dining space is available to group guests as a common area for gathering in hot, cold, or inclement weather.  Catered BBQ or alternate Dinner options are available upon request for guests arriving in groups.
 
 
         Guests are also welcome to utilize the outdoor BBQ grill for their own use, should you choose to have dinner at 'home'.
 
 
-        Off Season (Nov-Apr):  8:00 a.m. - 10:00 a.m.
+        Off Season Breakfast Hours (Nov-Apr):  8:00 a.m. - 10:00 a.m.
 
-        In-Season (May-Oct):  7:00 a.m. - 10:00 a.m.
-    - image: /img/view-upon-entry-king-room.jpg
-      text: "Our ten clean, over-sized motel rooms feature great family accommodations
-        with many amenities, including blow dryer, microwave, mini-fridge, and
-        personal Kuerig coffee machine with complimentary coffee.  No more
-        carpet!! New Heat and AC, new bathroom installations, new floors, doors,
-        windows, and, well, everything. This demonstrates a sample of one of our
-        King rooms.  Rooms with two full-size beds are also available.  "
+        In-Season Breakfast Hours (May-Oct):  7:00 a.m. - 10:00 a.m.
+    - image: /img/rick-lise-miller-2-.jpg
+      text: >-
+        Forever Grateful. 
+
+
+        This is Rick and Lise Miller from Salem, NH.  Our dear friends who graciously helped get us started - be it tearing down walls, sewing curtains, painting, prepping the restaurant, baking  homemade muffins, painting, serving the omelets and home fries with bacon/sausage, (did I mention painting?), splitting firewood, building campfires, serving crockpot dinners - there was no job too small.  
+
+
+        Our hearts were broken in Sep 2022 when Rick entered his premature eternal rest.  We remain forever grateful to Lise and Rick for their friendship, support, and for the elbow grease and restaurant expertise they gave us to get started. We are honored to consider their family as our extended family.
     - image: /img/unnamed.jpg
       text: >-
         The Yankee Trail Motel boasts 3 professional regulation horseshoe pits
@@ -66,13 +75,13 @@ intro:
 
 
         Join us April 22, 2023 for our Annual Spring Horseshoe Tournament.  Locals welcomed and encouraged!
-    - image: /img/rick-lise-miller-2-.jpg
-      text: >-
-        Forever Grateful
-
-
-        This is Rick and Lise Miller from Salem, NH.  Our dear friends who graciously helped get us started - be it tearing down walls, sewing curtains, painting, prepping the restaurant, baking  homemade muffins, painting, serving the omelets and home fries with bacon/sausage, (did I mention painting?), splitting firewood, building campfires, serving crockpot dinners - there was no job too small.  And there was a little painting needed.
-
-
-        While Rick left us for his eternal journey in 2022, we are forever grateful to them both for their friendship, support, and the elbow grease and restaurant expertise they gave us to get started. We are honored to consider them family.
+    - image: /img/ryan-and-bailey-2022.jpg
+      text: This is Bailey, our grand puppy Boarder Collie. Pets are welcome at the
+        Yankee Trail. We allow up to 2 pets per room for a one-time $25 fee per
+        pet.  As we are on a busy road, we do require pets to be leashed
+        outdoors. Pets may not be left unattended for longer than 90 minutes to
+        reduce stress on them and neighboring guests. There are pet services
+        available in the area. Non-compliance to our pet policies or damage
+        caused by pets could incur fines of up to $100 and/or unfortunate
+        eviction.
 ---
