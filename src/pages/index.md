@@ -11,32 +11,45 @@ hero:
   modifications: Blurred from original
   title: Squam Lake Vista
 heading: Our Motel
-description: "Yankee Trail is located near the famous Squam Lake, or 'On Golden
+description: Yankee Trail is located near the famous Squam Lake, or 'On Golden
   Pond' as it was known in the famous 1981 movie with Henry Fonda and Katharine
   Hepburn, in Holderness, New Hampshire. Our family-owned and operated motel is
   also close to Lakes Winnipesaukee, Little Squam, Newfound Lake and more. We
   pride ourselves in making your trip to the Lakes and Mountains Region an
-  affordable and unforgettable experience. "
+  affordable and unforgettable experience. Join us in the in-season for lake
+  fun, concerts, or mountain hiking; or in the off-season for mountain snow,
+  frozen lake fun, snowmobiling or comedy! There's so much offered here in the
+  center of it all!
 intro:
   blurbs:
     - image: /img/img_1639.jpg
       text: >-
-        Our Breakfast Restaurant was completely remodeled and reopened in Spring
-        2021.  We renamed the restaurant KC's Kitchen & Catering in September
-        2021, when local Chef/General Manager, Rachel Robie, joined our
-        team.  The restaurant name was derived from the owners' names, Kevin &
-        Charlene.  
+        Our Breakfast Restaurant was completely remodeled in Spring 2021.  In
+        August 2022, our business model was modified to lower expenses, while
+        providing improved alignment to the manageable retirement life we
+        envisioned. 
 
 
-        KC's offers a full breakfast menu, though we also offer catering for any occasion (up to ~100 people).  Outdoor seating is available starting in the Spring season! Planning an outdoor day trip? We'll be offering Grab N Go lunches to take on your adventure. Inquire within!
+        With breakfast now included in our room rates, our restaurant is dedicated to serving our motel guests only.  Our guests get to experience that Bed & Breakfast vibe with the luxury of enjoying their own private space, separate from the owners.  
 
 
-        KC's Kitchen & Catering is open to the public year round 7:00 a.m. - Noon every Thursday - Sunday. 
+        The restaurant now serves more as our kitchen, dining and living space where we invite our guests to join us for breakfast appetizers while we make your breakfast to order.  We have no menu.  We primarily cook your basic American breakfast options to order or provide homemade specials. 
+
+
+        When arranged in advance with your reservation, our dining space is available to group guests as a common area for gathering in hot, cold, or inclement weather.  BBQ or other Dinner options are available upon requests for guests arriving in groups.
+
+
+        Guests are also welcome to utilize our the BBQ grill for their own use, should you choose to have dinner at 'home'.
+
+
+        Off Season (Nov-Apr):  8:00 a.m. - 10:00 a.m.
+
+        In-Season (May-Oct):  7:00 a.m. - 10:00 a.m.
     - image: /img/view-upon-entry-king-room.jpg
       text: Our ten clean, over-sized motel rooms feature great family accommodations
         with many amenities, including blow dryer, microwave, mini-fridge, and
         personal Kuerig coffee machine with complimentary coffee.  No more
-        carpet. New Heat and AC, new bathroom installations, new floors, doors,
+        carpet!! New Heat and AC, new bathroom installations, new floors, doors,
         windows, and, well, everything. This demonstrates a sample of one of our
         King rooms.
     - image: /img/horseshoe-ariel.jpg
@@ -50,13 +63,16 @@ intro:
 
 
         Want to organize your own group tournament event or fundraiser?  Contact Charlene on her personal mobile at 508-717-4777.
+
+
+        Join us April 22, 2023 for our Annual Spring Horseshoe Tournament.  Locals welcomed and encouraged!
     - image: /img/rick-lise-miller-2-.jpg
-      text: In February 2020, we welcomed Rick and Lise Miller from Salem, NH, to our
-        team.  Rick and Lise graciously pulled themselves from the depths of
-        retirement to work their magic in our kitchen to help get us started -
-        and a great start it was!  While Rick and Lise have returned to the joys
-        of retirement, they plan to stay on board as part of our family to
-        assist in any restaurant back-up activities or property enhancement
-        projects. We are forever indebted, and they will forever be a part of
-        the Yankee Trail family!
+      text: >-
+        Forever Grateful
+
+
+        This is Rick and Lise Miller from Salem, NH.  Our dear friends who graciously helped get us started - be it tearing down walls, sewing curtains, painting, prepping the restaurant, baking the homemade muffins, painting, serving the omelets and home fries with bacon, did I mention painting?, splitting firewood, building campfires, serving crockpot dinners - there was no job too small.  And there was a little painting needed.
+
+
+        While Rick left us for his eternal journey in 2022, we are forever grateful to them both for the friendship, support, and elbow grease they gave us to get started. We are honored to consider them family.
 ---
