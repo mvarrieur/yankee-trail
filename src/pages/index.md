@@ -52,7 +52,7 @@ intro:
         carpet!! New Heat and AC, new bathroom installations, new floors, doors,
         windows, and, well, everything. This demonstrates a sample of one of our
         King rooms.  Rooms with two full-size beds are also available.  "
-    - image: /img/horseshoe-ariel.jpg
+    - image: /img/unnamed.jpg
       text: >-
         The Yankee Trail Motel boasts 3 professional regulation horseshoe pits
         that can also be used for corn hole.  The owner, Charlene, is an avid
