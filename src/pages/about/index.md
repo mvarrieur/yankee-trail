@@ -11,10 +11,11 @@ hero:
   modifications: Blurred & cropped from original
   title: TKTK
 heading: Yankee Trail Motel is located a short walk to Squam Lake in Holderness, NH
-description: Featuring 10 over-sized rooms with all the comforts of home.
-  Oversized outdoor swimming pool, fire pit, yard games and grill area.
-  Professional horseshoe/corn hole pits await! Many local attractions! Breakfast
-  restaurant serves Fri - Sun 7:00 a.m. - Noon - Open to the Public!
+description: "Featuring 10 over-sized rooms with all the comforts of home,
+  including a homemade breakfast. Oversized outdoor swimming pool, fire pits, 3
+  surround sounds, yard games and grill area. Professional horseshoe/corn hole
+  pits on back property offer guest and local fun! Many local attractions, as we
+  are in the center of it all! "
 intro:
   blurbs:
     - image: /img/bathroom-quiet-spot.jpg
@@ -28,6 +29,9 @@ intro:
 
 
         Our floorplans are spacious, and all rooms offer a mini-fridge, microwave, Keurig coffee maker (coffee provided) and blow dryers. We currently offer three King rooms and seven rooms with two double (full) beds.  
+
+
+        Many other amenities available upon request, such as iron and ironing boards, toiletries, etc. Air mattress/porta cribs are available for a $25 fee.
     - image: /img/picture2.jpg
       text: Currently Open every FRI-SUN 7:00 - Noon.  Our motel boasts a small
         on-sight breakfast restaurant, KC's Kitchen & Catering, open to our
@@ -41,23 +45,22 @@ main:
   heading: Escape to the Lakes
   description: >
     The perfect getaway.  The Yankee Trail is in the heart of the Lakes and
-    Mountains region of NH and offers guests all the comforts of home.  The
-    Yankee Trail is close to many attractions, including the Holderness Natural
-    Science Center, Laconia’s Weirs Beach, everything Lincoln, Waterville Valley
-    and Gun Stock, to name a few.  The area boasts adventures of all kinds,
-    including golf, fishing, hiking, snowmobiling, ATVing, zip lines, area
-    beaches, and local trails.
+    Mountains region of NH and offers guests all the comforts of home.  Close to
+    many attractions, including the Holderness Natural Science Center, Laconia’s
+    Weirs Beach, everything Lincoln, Waterville Valley and Gun Stock, to name a
+    few.  The area boasts adventures of all kinds, including golf, fishing,
+    hiking, snowmobiling, ATVing, zip lines, area beaches and local trails.
 
 
-    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate and to take a break when you need one!  We are a perfect location for Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
+    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate yet take a break when you need one!  We are a perfect location for Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
   image1:
     alt: Our 45,000 gallon pool awaits the enjoyment of our summer motel
       guests.  The pool boasts an 11' deep end.
     image: /img/IMG_0484.JPG
   image2:
-    alt: Our motel features an onsite breakfast restaurant offering complimentary
-      continental breakfast to our guests.
-    image: /img/kcc-kitchen-logo.jpg
+    alt: Our American-style breakfasts are homemade and made to order for our motel
+      guests.
+    image: /img/omlet.jpg
   image3:
     alt: Dressing area - spacious enough for two people to get ready for that
       wedding, concert, or special event.
@@ -86,56 +89,36 @@ pricing:
     stay connected during your stay as Yankee Trail Motel offers guests free
     high-speed internet access.
   plans:
-    - description: Completely remodeled oversized room with complementary WiFi.  Rate
-        dependent on season / holiday. Holiday rate is $200 + tax.  Rates are
-        for 2 people.  Additional adult(s) $10/night/adult.
+    - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023)
+      price: 149 King Bed or 2 Full Beds
+      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
+        remodeled, oversized, comfortably decorated room with complementary
+        WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
       items:
-        - 2 Double Memory Foam beds
-        - Air conditioning
-        - On Demand
+        - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - Heat / Air Conditioning
+        - TV
         - Mini-fridge
         - Small microwave
         - Keurig coffee machine with coffee
-        - Pet Friendly
-      plan: 7 Double Bed Rooms (2022)
-      price: 125 (off-season)-$175 (in-season) + 8.5% tax
-    - description: Newly remodeled oversized room with complementary WiFi.  Rate
-        dependent on season / holiday. Holiday rate is $200 + tax. Rates are for
-        2 people.  Additional adult(s) $10/night/adult.
+        - Ice Bucket
+        - Blow Dryer
+        - Pet Friendly [$25 fee/pet  - max 2]
+        - Air mattress available upon request [$25 fee]
+    - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023)
+      price: 169 King Bed or 2 Full Beds
+      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
+        remodeled, oversized, comfortably decorated room with complementary
+        WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
       items:
-        - 1 King Memory Foam bed
-        - Air conditioning
-        - On Demand
+        - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - Heat / Air Conditioning
+        - TV
         - Mini-fridge
         - Small microwave
         - Keurig coffee machine with coffee
-        - Pet Friendly
-      plan: 3 King Bed Rooms (2022)
-      price: 125 (off-season) -$175 (in-season) + 8.5% tax
-    - plan: 7 Double Bed Rooms (2023)
-      price: 140 (off-season)-$195 (in-season) + 8.5% tax
-      description: Completely remodeled oversized room with complementary WiFi.  Rate
-        dependent on season / holiday. Holiday rate is $225 + tax.  Rates are
-        for 2 people.  Additional adult(s) $10/night/adult.
-      items:
-        - 2 Double Memory Foam beds
-        - Air conditioning
-        - On Demand
-        - Mini-fridge
-        - Small microwave
-        - Keurig coffee machine with coffee
-        - Pet Friendly
-    - plan: 3 King Bed Rooms (2023)
-      price: 140 (off-season)-$195 (in-season) + 8.5% tax
-      description: Completely remodeled oversized room with complementary WiFi.  Rate
-        dependent on season / holiday. Holiday rate is $225 + tax.  Rates are
-        for 2 people.  Additional adult(s) $10/night/adult.
-      items:
-        - 1 King Memory Foam bed
-        - Air conditioning
-        - On Demand
-        - Mini-fridge
-        - Small microwave
-        - Keurig coffee machine with coffee
-        - Pet Friendly
+        - Ice Bucket
+        - Blow Dryer
+        - Pet Friendly [$25 fee/pet  - max 2]
+        - Air mattress available upon request [$25 fee]
 ---
