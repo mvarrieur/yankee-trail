@@ -11,11 +11,13 @@ hero:
   modifications: Blurred & cropped from original
   title: TKTK
 heading: Yankee Trail Motel is located a short walk to Squam Lake in Holderness, NH
-description: "Featuring 10 over-sized rooms with all the comforts of home,
+description: Featuring 10 over-sized rooms with all the comforts of home,
   including a homemade breakfast. Oversized outdoor swimming pool, fire pits, 3
   surround sounds, yard games and grill area. Professional horseshoe/corn hole
   pits on back property offer guest and local fun! Many local attractions, as we
-  are in the center of it all! "
+  are in the center of it all! Plan your special gathering here! Contact
+  Charlene via voice or text to 508-717-4777 for more information on blocks of
+  rooms for larger gatherings. Common area available to accommodate your event.
 intro:
   blurbs:
     - image: /img/bathroom-quiet-spot.jpg
@@ -50,7 +52,7 @@ main:
     hiking, snowmobiling, ATVing, zip lines, area beaches and local trails.
 
 
-    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate yet take a break when you need one!  We are a perfect location for access to Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
+    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate yet take a break when you need one!  We are a perfect location for access to Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. (Fun Fact: We are one of the very few who offer a one-night stay!)  Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
   image1:
     alt: Our 45,000 gallon pool awaits the enjoyment of our summer motel
       guests.  The pool boasts an 11' deep end.
@@ -91,9 +93,9 @@ pricing:
     high-speed internet access. Room rates are based on two people and include
     breakfast.
   plans:
-    - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes 2/20-23 and
-        4/16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for additional
-        exceptions)
+    - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes Feb 20-23 and
+        Apr 16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for
+        additional exceptions)
       price: 149 King Bed or 2 Full Beds
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
         ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
@@ -114,11 +116,13 @@ pricing:
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
     - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Applies to Feb 20-23
-        and Apr 16-20, 2023)
+        and Apr 16-20, 2023)(Refer to HOLIDAY RATES for additional exceptions)
       price: 169 King Bed or 2 Full Beds
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
-        remodeled, oversized, comfortably decorated room with complementary
-        WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
+      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
+        ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
+        Apr 16-20, 2023. Completely remodeled, oversized, comfortably decorated
+        room with complementary WiFi.  Rates are for 2 people.  Additional
+        adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - WiFi
@@ -132,12 +136,14 @@ pricing:
         - Pet Friendly [$25 fee/pet  - max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
-    - plan: IN-SEASON WEEKDAY (May/Sep/Oct 2023; Jan/Feb/Mar/Apr/May 2024)
+    - plan: IN-SEASON WEEKDAY (May/Sep/Oct 2023)(Excludes Holidays - Refer to HOLIDAY
+        RATES)
       price: 219 King Bed or 2 Full Beds (Multi-Nite Rate)
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Single-Nite
-        Weekday Rate is $229. Completely remodeled, oversized, comfortably
-        decorated room with complementary WiFi.  Rates are for 2
-        people.  Additional adult(s) $10/night/adult.
+      description: Single-Nite Weekday Rate is $229. Add 8.5% NH Meals/Room Tax to all
+        rates. Excludes Gratuities. Excludes Holidays ($179/night - See Holiday
+        Rate Plan).  Completely remodeled, oversized, comfortably decorated room
+        with complementary WiFi.  Rates are for 2 people.  Additional adult(s)
+        $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - WiFi
