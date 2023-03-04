@@ -23,16 +23,18 @@ images:
     text: Look closely!  The Old Man on The Mountain embedded within the rocks of
       our sign.
   - image: /img/backyard-future-state-conversation-area.jpg
-    text: Our grounds are also in the process of being updated. Here marks the spot
-      for the future conversation area.  Windows from the back of the motel were
-      removed to allow more privacy for guests. The future spot will allow the
-      motel to buffer high-traffic noise, unfortunately, increased by our
-      neighbor's newly installed berm.
+    text: Our grounds are also in the process of being updated.  Windows from the
+      back of the motel were removed to allow more privacy for guests. What will
+      be done with the space is still under consideration - a fenced area for
+      pets? A conversation area? A sunbathing area? Maybe a little of each...
+      come visit to find out!
   - image: /img/IMG_0484.JPG
     text: "Join us poolside!  Our renovations include a dedicated bathroom for our
       pool and outdoor activity area.  We also installed surround sound.  "
   - image: /img/IMG_0482.JPG
-    text: Beautiful grounds.
+    text: Beautiful grounds. We hope to bring back the trails on the property in the
+      very near future! Be on the look out for landscape weekend opportunities!
+      It could mean a free weekend in New Hampshire!
   - image: /img/flower-pots-at-entry.jpg
-    text: Welcoming and immaculately kept.
+    text: Welcoming and immaculately kept with pride.
 ---
