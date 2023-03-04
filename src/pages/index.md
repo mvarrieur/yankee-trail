@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Yankee Trail Motel & Breakfast Restaurant in Holderness, New Hampshire
+title: Yankee Trail Motel & Breakfast in Holderness, New Hampshire
 hero:
   artist: Marc Nozell
   image: /img/squam-vista.jpg
@@ -24,10 +24,10 @@ intro:
   blurbs:
     - image: /img/img_1639.jpg
       text: >-
-        Our Breakfast Restaurant was completely remodeled in Spring 2021.  In
-        August 2022, our business model was modified to lower expenses, while
-        providing improved alignment to the manageable retirement life we
-        envisioned. 
+        The former Breakfast Restaurant was completely remodeled in Spring
+        2021.  In August 2022, our business model was modified to lower
+        expenses, while providing improved alignment to the manageable
+        retirement life we envisioned. 
 
 
         With breakfast now included in our room rates, our restaurant is dedicated to serving our motel guests only.  Our guests get to experience that Bed & Breakfast vibe with the luxury of enjoying their own private space, separate from the owners.  
