@@ -95,7 +95,7 @@ pricing:
   plans:
     - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes Feb 20-23 and
         Apr 16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for
-        additional exceptions)
+        additional exception dates)
       price: 149 King Bed or 2 Full Beds
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
         ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
@@ -116,7 +116,8 @@ pricing:
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
     - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Applies to Feb 20-23
-        and Apr 16-20, 2023)(Refer to HOLIDAY RATES for additional exceptions)
+        and Apr 16-20, 2023)(Refer to HOLIDAY RATES for additional exception
+        dates)
       price: 169 King Bed or 2 Full Beds
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
         ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
@@ -155,8 +156,8 @@ pricing:
         - Pet Friendly [$25 fee/pet  - Max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
-    - plan: IN-SEASON WEEKDAY (May/Sep/Oct 2023)(Excludes Holidays - Refer to HOLIDAY
-        RATES)
+    - plan: IN-SEASON WEEKDAY (May/Sep/Oct 2023)(Refer to HOLIDAY RATES for additional
+        exception dates)
       price: 219 King Bed or 2 Full Beds (Multi-Nite Rate)
       description: Single-Nite Weekday Rate is $229. Add 8.5% NH Meals/Room Tax to all
         rates. Excludes Gratuities. Excludes Holidays ($179/night - See Holiday
@@ -176,8 +177,8 @@ pricing:
         - Pet Friendly [$25 fee/pet  - max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
-    - plan: IN-SEASON WEEKEND (May/Sep/Oct 2023)(Excludes Holidays - Refer to HOLIDAY
-        RATES)
+    - plan: IN-SEASON WEEKEND (May/Sep/Oct 2023) (Refer to HOLIDAY RATES for
+        additional exception dates)
       price: 249 King Bed or 2 Full Beds (Multi-Nite Rate)
       description: Single-Nite Weekend Rate is $259. Add 8.5% NH Meals/Room Tax to all
         rates. Excludes Gratuities. Excludes Holidays ($179/night - See Holiday
@@ -198,7 +199,7 @@ pricing:
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
     - plan: HIGH-SEASON RATE PLAN (Jun/Jul/Aug 2023)(Applies to Weekdays and Weekends;
-        Excludes Holidays - Refer to HOLIDAY RATES)
+        Refer to HOLIDAY RATES for additional exception dates)
       price: 249 King Bed or 2 Full Beds (Multi-Nite Rate)
       description: Single-Nite Weekend Rate is $259. Add 8.5% NH Meals/Room Tax to all
         rates. Excludes Gratuities. Excludes Holidays ($179/night - See Holiday
