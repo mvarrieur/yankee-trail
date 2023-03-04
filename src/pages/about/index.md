@@ -31,18 +31,16 @@ intro:
         Our floorplans are spacious, and all rooms offer a mini-fridge, microwave, Keurig coffee maker (coffee provided) and blow dryers. We currently offer three King rooms and seven rooms with two double (full) beds.  
 
 
-        Many other amenities available upon request, such as iron and ironing boards, toiletries, etc. Air mattress/porta cribs are available for a $25 fee.
-    - image: /img/picture2.jpg
-      text: Currently Open every FRI-SUN 7:00 - Noon.  Our motel boasts a small
-        on-sight breakfast restaurant, KC's Kitchen & Catering, open to our
-        guests and the public.  Come meet our General Manager/Chef, Rachel
-        Robie. Our breakfast restaurant and catering services offer home-cooked
-        meals made with local ingredients.  Our hours may be for breakfast, but
-        we offer so much more!  Whether you are looking for take-home meals for
-        two or for 100, you will not be disappointed with our options and the
-        taste!  Numerous options for BBQ Catering available.
+        Many other amenities available upon request, such as iron and ironing boards, forgotten toiletries, etc. 
+    - image: /img/omlet.jpg
+      text: When you come to our restaurant, you enter our home - or at least the
+        heart of it. We offer real 'Mom's home cooking!'  Start your day at the
+        appetizer station with oven-baked pastries, fresh fruit, yogurt, granola
+        bars, oatmeal, juice and coffee while we create your special-ordered,
+        hot, American breakfast. Our aim is to get you off to a great start
+        while you prepare to enjoy the Lakes Region and Mountain air!
 main:
-  heading: Escape to the Lakes
+  heading: Escape to the Mountains & Lakes
   description: >
     The perfect getaway.  The Yankee Trail is in the heart of the Lakes and
     Mountains region of NH and offers guests all the comforts of home.  Close to
@@ -52,7 +50,7 @@ main:
     hiking, snowmobiling, ATVing, zip lines, area beaches and local trails.
 
 
-    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate yet take a break when you need one!  We are a perfect location for Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
+    Perhaps you'll prefer to reserve an area boat or train ride to really take in the sights!  We are the perfect location for being near it all but not in it all; allowing you to participate yet take a break when you need one!  We are a perfect location for access to Lake Squam, Newfound Lake, and Winnipesauki Fishing and Pond Hockey Tournaments, as well as for Laconia's bike week.  Or maybe you are attending a concert/event at the nearby BNH Pavilion. Better yet, create your own event right here on our grounds! Gather your friends and family and come enjoy all the Yankee Trail has to offer.  
   image1:
     alt: Our 45,000 gallon pool awaits the enjoyment of our summer motel
       guests.  The pool boasts an 11' deep end.
@@ -66,8 +64,6 @@ main:
       wedding, concert, or special event.
     image: /img/dressing-area-with-mirror-view2.jpg
 testimonials:
-  - author: Tim Decareau on Facebook
-    quote: '"Nice cozy place. Wonderful customer service."'
   - author: Ijklm5662 on TripAdvisor
     quote: '"We stayed here while visiting our family this summer. Very convenient
       location in Holderness. I liked the fact that it only has a total of 10
@@ -79,15 +75,21 @@ testimonials:
       for me.  Super friendly and the rooms were impeccably clean and
       updated.  I would stay here again."'
     author: Krystie Wood, Facebook
+  - quote: '"This is an amazing motel! Entire room was completely new, it felt like
+      a hotel room in a city.  There was nice touches everywhere....I highly
+      recommend this place, a hidden gem."'
+    author: Chris L, Google
 full_image: /img/squam-vista.jpg
 pricing:
   heading: Room Rates
   description: See why so many travelers make Yankee Trail Motel their motel of
-    choice when visiting Holderness. Providing an ideal mix of value, comfort
-    and convenience, we offer an array of amenities designed for travelers like
-    you. You’ll enjoy relaxing rooms that offer air conditioning, and you can
-    stay connected during your stay as Yankee Trail Motel offers guests free
-    high-speed internet access.
+    choice when visiting the Lakes Region. Providing an ideal mix of value,
+    comfort and convenience, we offer an array of amenities designed for
+    travelers like you. You’ll enjoy relaxing rooms that offer comfortable heat
+    / air conditioning, amazing showers commanding instant hot water, and you
+    can stay connected during your stay as Yankee Trail Motel offers guests free
+    high-speed internet access. Room rates are based on two people and include
+    breakfast.
   plans:
     - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023)
       price: 149 King Bed or 2 Full Beds
@@ -105,6 +107,7 @@ pricing:
         - Blow Dryer
         - Pet Friendly [$25 fee/pet  - max 2]
         - Air mattress available upon request [$25 fee]
+        - Complimentary Breakfast
     - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023)
       price: 169 King Bed or 2 Full Beds
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
@@ -121,4 +124,5 @@ pricing:
         - Blow Dryer
         - Pet Friendly [$25 fee/pet  - max 2]
         - Air mattress available upon request [$25 fee]
+        - Complimentary Breakfast
 ---
