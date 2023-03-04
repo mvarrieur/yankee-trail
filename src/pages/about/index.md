@@ -93,9 +93,10 @@ pricing:
   plans:
     - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023)
       price: 149 King Bed or 2 Full Beds
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
-        remodeled, oversized, comfortably decorated room with complementary
-        WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
+      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
+        ($179/night). Completely remodeled, oversized, comfortably decorated
+        room with complementary WiFi.  Rates are for 2 people.  Additional
+        adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - Heat / Air Conditioning
@@ -113,6 +114,24 @@ pricing:
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
         remodeled, oversized, comfortably decorated room with complementary
         WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
+      items:
+        - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - Heat / Air Conditioning
+        - TV
+        - Mini-fridge
+        - Small microwave
+        - Keurig coffee machine with coffee
+        - Ice Bucket
+        - Blow Dryer
+        - Pet Friendly [$25 fee/pet  - max 2]
+        - Air mattress available upon request [$25 fee]
+        - Complimentary Breakfast
+    - plan: IN-SEASON WEEKDAY (May/Sep/Oct 2023; Jan/Feb/Mar/Apr/May 2024)
+      price: 219 King Bed or 2 Full Beds (Multi-Nite Rate)
+      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Single-Nite
+        Weekday Rate is $229. Completely remodeled, oversized, comfortably
+        decorated room with complementary WiFi.  Rates are for 2
+        people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - Heat / Air Conditioning
