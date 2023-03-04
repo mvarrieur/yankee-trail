@@ -91,14 +91,18 @@ pricing:
     high-speed internet access. Room rates are based on two people and include
     breakfast.
   plans:
-    - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023)
+    - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes 2/20-23 and
+        4/16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for additional
+        exceptions)
       price: 149 King Bed or 2 Full Beds
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
-        ($179/night). Completely remodeled, oversized, comfortably decorated
+        ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
+        Apr 16-20, 2023. Completely remodeled, oversized, comfortably decorated
         room with complementary WiFi.  Rates are for 2 people.  Additional
         adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - WiFi
         - Heat / Air Conditioning
         - TV
         - Mini-fridge
@@ -106,16 +110,18 @@ pricing:
         - Keurig coffee machine with coffee
         - Ice Bucket
         - Blow Dryer
-        - Pet Friendly [$25 fee/pet  - max 2]
+        - Pet Friendly [$25 fee/pet  - Max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
-    - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023)
+    - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Applies to Feb 20-23
+        and Apr 16-20, 2023)
       price: 169 King Bed or 2 Full Beds
       description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
         remodeled, oversized, comfortably decorated room with complementary
         WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - WiFi
         - Heat / Air Conditioning
         - TV
         - Mini-fridge
@@ -134,6 +140,7 @@ pricing:
         people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
+        - WiFi
         - Heat / Air Conditioning
         - TV
         - Mini-fridge
