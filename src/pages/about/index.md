@@ -96,9 +96,9 @@ pricing:
     guests.  Additional adult guests, add $10/night/per additional adult. Air
     mattress rentals available for $25.
   plans:
-    - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes Feb 20-23 and
-        Apr 16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for
-        additional exception dates)
+    - plan: OFF-SEASON WEEKDAY/WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes Feb
+        20-23 and Apr 16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES
+        for additional exception dates)
       price: 129 (2 Guests)
       description: Multi-Nite Rate. Single-Nite Weekday Rate is $149. Add 8.5% NH
         Meals/Room Tax. Excludes Gratuities. Excludes Holidays ($179/night - See
@@ -117,29 +117,6 @@ pricing:
         - Ice Bucket
         - Blow Dryer
         - Pet Friendly [$25 fee/pet  - Max 2]
-        - Air mattress available upon request [$25 fee]
-        - Complimentary Breakfast
-    - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Applies to Feb 20-23
-        and Apr 16-20, 2023)(Refer to HOLIDAY RATES for additional exception
-        dates)
-      price: 129 (2 Guests)
-      description: Multi-Nite Rate.  $219 Single-Nite Rate. Add 8.5% NH Meals/Room
-        Tax. Excludes Gratuities. Excludes Holidays ($179/night - See Holiday
-        Rate Plan). Weekend rates apply Feb 20-23 and Apr 16-20, 2023.
-        Completely remodeled, oversized, comfortably decorated room with
-        complementary WiFi.  Rates are for 2 people.  Additional adult(s)
-        $10/night/adult.
-      items:
-        - 2 Double Memory Foam beds or 1 King Memory Foam bed
-        - WiFi
-        - Heat / Air Conditioning
-        - TV
-        - Mini-fridge
-        - Small microwave
-        - Keurig coffee machine with coffee
-        - Ice Bucket
-        - Blow Dryer
-        - Pet Friendly [$25 fee/pet  - max 2]
         - Air mattress available upon request [$25 fee]
         - Complimentary Breakfast
     - plan: Off-Season HOLIDAY RATE PLAN (Jan 1; Feb 17-19, 24, 25; Nov 21-24; Dec 24,
