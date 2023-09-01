@@ -184,10 +184,10 @@ pricing:
     - plan: HIGH-SEASON RATE PLAN (Jun/Jul/Aug 2023)(Applies to Weekdays and Weekends;
         Refer to HOLIDAY RATES for additional exception dates)
       price: 219 (2 Guests)
-      description: Multi-Nite Rate. Single-Nite Weekend Rate is $249. Add 8.5% NH
-        Meals/Room Tax to all rates. Excludes Gratuities. Excludes Holidays
-        ($179/night - See Holiday Rate Plan).  Completely remodeled, oversized,
-        comfortably decorated room with complementary WiFi.  Rates are for 2
+      description: Multi-Nite Rate. Single-Nite Rate is $249. Add 8.5% NH Meals/Room
+        Tax to all rates. Excludes Gratuities. Excludes Holidays ($179/night -
+        See Holiday Rate Plan).  Completely remodeled, oversized, comfortably
+        decorated room with complementary WiFi.  Rates are for 2
         people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
