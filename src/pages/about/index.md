@@ -93,7 +93,8 @@ pricing:
     high-speed internet access. Room rates are based on two people and include
     breakfast. Rate applies to either a King Bed or 2 Full Beds.  King rooms
     allow up to 3 guests.  Quad Rooms (2 Full Beds) allow up to 4
-    guests.  Additional adult guests, add $10/night/per additional adult.
+    guests.  Additional adult guests, add $10/night/per additional adult. Air
+    mattress rentals available for $25.
   plans:
     - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes Feb 20-23 and
         Apr 16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for
