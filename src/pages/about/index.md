@@ -96,12 +96,13 @@ pricing:
     - plan: OFF-SEASON WEEKDAY (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Excludes Feb 20-23 and
         Apr 16-20 where WEEKEND RATES apply; Refer to HOLIDAY RATES for
         additional exception dates)
-      price: 149 (2 Guests)
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
-        ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
-        Apr 16-20, 2023. Completely remodeled, oversized, comfortably decorated
-        room with complementary WiFi.  Rates are for 2 people.  Additional
-        adult(s) $10/night/adult.
+      price: 129 (2 Guests)
+      description: Multi-Nite Rate. Single-Nite Weekday Rate is $149. Add 8.5% NH
+        Meals/Room Tax. Excludes Gratuities. Excludes Holidays ($179/night - See
+        Holiday Rate Plan). Weekend rates apply Feb 20-23 and Apr 16-20, 2023.
+        Completely remodeled, oversized, comfortably decorated room with
+        complementary WiFi.  Rates are for 2 people.  Additional adult(s)
+        $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - WiFi
@@ -118,12 +119,13 @@ pricing:
     - plan: OFF-SEASON WEEKEND (Jan/Feb/Mar/Apr/Nov/Dec 2023) (Applies to Feb 20-23
         and Apr 16-20, 2023)(Refer to HOLIDAY RATES for additional exception
         dates)
-      price: 169 (2 Guests)
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Excludes Holidays
-        ($179/night - See Holiday Rate Plan). Weekend rates apply Feb 20-23 and
-        Apr 16-20, 2023. Completely remodeled, oversized, comfortably decorated
-        room with complementary WiFi.  Rates are for 2 people.  Additional
-        adult(s) $10/night/adult.
+      price: 129 (2 Guests)
+      description: Multi-Nite Rate.  $219 Single-Nite Rate. Add 8.5% NH Meals/Room
+        Tax. Excludes Gratuities. Excludes Holidays ($179/night - See Holiday
+        Rate Plan). Weekend rates apply Feb 20-23 and Apr 16-20, 2023.
+        Completely remodeled, oversized, comfortably decorated room with
+        complementary WiFi.  Rates are for 2 people.  Additional adult(s)
+        $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - WiFi
@@ -139,10 +141,11 @@ pricing:
         - Complimentary Breakfast
     - plan: Off-Season HOLIDAY RATE PLAN (Jan 1; Feb 17-19, 24, 25; Nov 21-24; Dec 24,
         25, 31, 2023; Jan 1, Feb 16-18, 23-24, 2024)
-      price: 179 (2 Guests)
-      description: Add 8.5% NH Meals/Room Tax. Excludes Gratuities. Completely
-        remodeled, oversized, comfortably decorated room with complementary
-        WiFi.  Rates are for 2 people.  Additional adult(s) $10/night/adult.
+      price: 149 (2 Guests)
+      description: Multi-Nite Rate.  Single-Nite Rate $179. Add 8.5% NH Meals/Room
+        Tax. Excludes Gratuities. Completely remodeled, oversized, comfortably
+        decorated room with complementary WiFi.  Rates are for 2
+        people.  Additional adult(s) $10/night/adult.
       items:
         - 2 Double Memory Foam beds or 1 King Memory Foam bed
         - WiFi
@@ -158,8 +161,8 @@ pricing:
         - Complimentary Breakfast
     - plan: IN-SEASON WEEKDAY (May/Sep/Oct 2023)(Refer to HOLIDAY RATES for additional
         exception dates)
-      price: 219 (2 Guests)
-      description: Multi-Nite Rate. Single-Nite Weekday Rate is $229. Add 8.5% NH
+      price: 159 (2 Guests)
+      description: Multi-Nite Rate. Single-Nite Weekday Rate is $189. Add 8.5% NH
         Meals/Room Tax to all rates. Excludes Gratuities. Excludes Holidays
         ($179/night - See Holiday Rate Plan).  Completely remodeled, oversized,
         comfortably decorated room with complementary WiFi.  Rates are for 2
@@ -179,8 +182,8 @@ pricing:
         - Complimentary Breakfast
     - plan: IN-SEASON WEEKEND (May/Sep/Oct 2023) (Refer to HOLIDAY RATES for
         additional exception dates)
-      price: 249 (2 Guests)
-      description: Multi-Nite Rate. Single-Nite Weekend Rate is $259. Add 8.5% NH
+      price: 189 (2 Guests)
+      description: Multi-Nite Rate. Single-Nite Weekend Rate is $219. Add 8.5% NH
         Meals/Room Tax to all rates. Excludes Gratuities. Excludes Holidays
         ($179/night - See Holiday Rate Plan).  Completely remodeled, oversized,
         comfortably decorated room with complementary WiFi.  Rates are for 2
@@ -200,8 +203,8 @@ pricing:
         - Complimentary Breakfast
     - plan: HIGH-SEASON RATE PLAN (Jun/Jul/Aug 2023)(Applies to Weekdays and Weekends;
         Refer to HOLIDAY RATES for additional exception dates)
-      price: 249 (2 Guests)
-      description: Multi-Nite Rate. Single-Nite Weekend Rate is $259. Add 8.5% NH
+      price: 219 (2 Guests)
+      description: Multi-Nite Rate. Single-Nite Weekend Rate is $249. Add 8.5% NH
         Meals/Room Tax to all rates. Excludes Gratuities. Excludes Holidays
         ($179/night - See Holiday Rate Plan).  Completely remodeled, oversized,
         comfortably decorated room with complementary WiFi.  Rates are for 2
@@ -221,8 +224,8 @@ pricing:
         - Complimentary Breakfast
     - plan: In-Season and High-Season HOLIDAY RATE PLAN (May 26-28; Jun 9-17, 30; Jul
         1-8; Aug 18-19; Sep 1-3; Oct 6-8, 13-14, 2023)
-      price: 299 (2 Guests)
-      description: Multi-Nite Rate. Single-Nite Weekend Rate is $319. Add 8.5% NH
+      price: 259 (2 Guests)
+      description: Multi-Nite Rate. Single-Nite Weekend Rate is $289. Add 8.5% NH
         Meals/Room Tax to all rates. Excludes Gratuities. Completely remodeled,
         oversized, comfortably decorated room with complementary WiFi.  Rates
         are for 2 people.  Additional adult(s) $10/night/adult.
