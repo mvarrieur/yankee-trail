@@ -84,4 +84,10 @@ intro:
         pet services available in the area. Non-compliance to our pet policies
         or damage caused by pets could incur fines of up to $100 and/or
         unfortunate eviction.
+    - image: /img/hotel-value.png
+      text: "***NOTICE TO CUSTOMERS*** - Reservations made through HotelValue.com
+        cannot be accepted.  This is a known SCAM website from which we have had
+        customers arrive at our establishment only to find they did NOT have a
+        confirmed booking even though they received a confirmation number from
+        the bogus booking engine. Buyers beware!"
 ---
