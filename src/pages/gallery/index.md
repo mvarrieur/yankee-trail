@@ -22,12 +22,6 @@ images:
   - image: /img/IMG_0653.JPG
     text: Look closely!  The Old Man on The Mountain embedded within the rocks of
       our sign.
-  - image: /img/backyard-future-state-conversation-area.jpg
-    text: Our grounds are also in the process of being updated.  Windows from the
-      back of the motel were removed to allow more privacy for guests. What will
-      be done with the space is still under consideration - a fenced area for
-      pets? A conversation area? A sunbathing area? Maybe a little of each...
-      come visit to find out!
   - image: /img/IMG_0484.JPG
     text: "Join us poolside!  Our renovations include a dedicated bathroom for our
       pool and outdoor activity area.  We also installed surround sound.  "
