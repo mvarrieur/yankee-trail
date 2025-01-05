@@ -40,7 +40,7 @@ intro:
         With breakfast now included in our room rates, our restaurant is dedicated to serving our motel guests only.  Our guests get to experience that Bed & Breakfast vibe with the luxury of enjoying their own private space, separate from the owners.  
 
 
-        The restaurant now serves more as our kitchen, dining and living space where we invite our guests to join us for breakfast appetizers while we make your breakfast to order.  We have no menu.  We primarily cook your basic American breakfast options to order or provide homemade specials. 
+        The restaurant now serves more as our kitchen, dining and living space where we invite our guests to join us for breakfast appetizers while we make your breakfast to order.  We have no "menu".  We primarily cook your basic American breakfast options to order or provide homemade specials. 
 
 
         When arranged in advance with your reservation, our dining space is available to group guests as a common area for gathering in hot, cold, or inclement weather.  Catered BBQ or alternate Dinner options are available upon request for guests arriving in groups.
