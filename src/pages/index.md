@@ -78,7 +78,7 @@ intro:
     - image: /img/ryan-and-bailey-2022.jpg
       text: This is Bailey, our grand puppy Boarder Collie with his dad, Ryan. Pets
         are welcome at the Yankee Trail. We allow up to 2 pets per room for a
-        one-time $25 fee per pet.  As we are on a busy road, we do require pets
+        one-time $50 fee per pet.  As we are on a busy road, we do require pets
         to be leashed outdoors. Pets may not be left unattended for longer than
         90 minutes to reduce stress on them and neighboring guests. There are
         pet services available in the area. Non-compliance to our pet policies
